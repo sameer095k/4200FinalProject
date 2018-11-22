@@ -1,0 +1,11031 @@
+NFL Team Stats Data 
+crd Team Stats Data 
+No.: 3
+Player: Josh Rosen
+Age: 21
+Pos: QB
+Games: 5
+Started: 4
+Cmp: 71
+Att: 129
+Cmp%: 55.0
+Yds: 820
+Td: 3
+Td%: 2.3
+Int: 5
+Int%: 3.9
+Y/A: 6.4
+Y/C: 11.5
+Y/G: 164.0
+QBR: 34.6
+Sacked: 13
+No.: 9
+Player: Sam Bradford
+Age: 31
+Pos: qb
+Games: 3
+Started: 3
+Cmp: 50
+Att: 80
+Cmp%: 62.5
+Yds: 400
+Td: 2
+Td%: 2.5
+Int: 4
+Int%: 5.0
+Y/A: 5.0
+Y/C: 8.0
+Y/G: 133.3
+QBR: 25.8
+Sacked: 6
+No.: 31
+Player: David Johnson
+Age: 27
+Pos: RB
+Games: 7
+Started: 7
+RushAtt: 106
+RushYds: 335
+RushTd: 5
+RushYds/Att: 3.2
+RushYds/Game: 47.9
+Att/Game: 15.1
+RecTargets: 30
+RecCatch: 20
+RecYds: 166
+Yds/Rec: 8.3
+RecTd: 1
+Rec/Game: 2.9
+Yds/Game: 23.7
+Rec%: 66.7%
+Fmb: 2
+No.: 29
+Player: Chase Edmonds
+Age: 22
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 20
+RushYds: 52
+RushTd: 0
+RushYds/Att: 2.6
+RushYds/Game: 7.4
+Att/Game: 2.9
+RecTargets: 13
+RecCatch: 12
+RecYds: 51
+Yds/Rec: 4.3
+RecTd: 0
+Rec/Game: 1.7
+Yds/Game: 7.3
+Rec%: 92.3%
+Fmb: 0
+No.: 3
+Player: Josh Rosen
+Age: 21
+Pos: QB
+Games: 5
+Started: 4
+RushAtt: 7
+RushYds: 36
+RushTd: 0
+RushYds/Att: 5.1
+RushYds/Game: 7.2
+Att/Game: 1.4
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 3
+No.: 13
+Player: Christian Kirk
+Age: 22
+Pos: wr
+Games: 7
+Started: 3
+RushAtt: 2
+RushYds: 12
+RushTd: 0
+RushYds/Att: 6.0
+RushYds/Game: 1.7
+Att/Game: 0.3
+RecTargets: 39
+RecCatch: 28
+RecYds: 368
+Yds/Rec: 13.1
+RecTd: 1
+Rec/Game: 4.0
+Yds/Game: 52.6
+Rec%: 71.8%
+Fmb: 0
+No.: 32
+Player: Derrick Coleman
+Age: 28
+Pos: fb
+Games: 7
+Started: 1
+RushAtt: 2
+RushYds: 3
+RushTd: 0
+RushYds/Att: 1.5
+RushYds/Game: 0.4
+Att/Game: 0.3
+RecTargets: 2
+RecCatch: 2
+RecYds: 17
+Yds/Rec: 8.5
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 2.4
+Rec%: 100.0%
+Fmb: 0
+No.: 9
+Player: Sam Bradford
+Age: 31
+Pos: qb
+Games: 3
+Started: 3
+RushAtt: 2
+RushYds: 7
+RushTd: 0
+RushYds/Att: 3.5
+RushYds/Game: 2.3
+Att/Game: 0.7
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 3
+No.: 14
+Player: JJ Nelson
+Age: 26
+Pos: wr
+Games: 7
+Started: 1
+RushAtt: 1
+RushYds: 7
+RushTd: 0
+RushYds/Att: 7.0
+RushYds/Game: 1.0
+Att/Game: 0.1
+RecTargets: 9
+RecCatch: 4
+RecYds: 21
+Yds/Rec: 5.3
+RecTd: 0
+Rec/Game: 0.6
+Yds/Game: 3.0
+Rec%: 44.4%
+Fmb: 0
+No.: 11
+Player: Larry Fitzgerald
+Age: 35
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 41
+RecCatch: 26
+RecYds: 255
+Yds/Rec: 9.8
+RecTd: 1
+Rec/Game: 3.7
+Yds/Game: 36.4
+Rec%: 63.4%
+Fmb: 0
+No.: 86
+Player: Ricky Seals-Jones
+Age: 23
+Pos: TE
+Games: 7
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 35
+RecCatch: 17
+RecYds: 204
+Yds/Rec: 12.0
+RecTd: 1
+Rec/Game: 2.4
+Yds/Game: 29.1
+Rec%: 48.6%
+Fmb: 0
+No.: 10
+Player: Chad Williams
+Age: 24
+Pos: WR
+Games: 7
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 29
+RecCatch: 9
+RecYds: 92
+Yds/Rec: 10.2
+RecTd: 1
+Rec/Game: 1.3
+Yds/Game: 13.1
+Rec%: 31.0%
+Fmb: 0
+No.: 84
+Player: Jermaine Gresham
+Age: 30
+Pos: TE
+Games: 5
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 3
+RecYds: 46
+Yds/Rec: 15.3
+RecTd: 0
+Rec/Game: 0.6
+Yds/Game: 9.2
+Rec%: 75.0%
+Fmb: 0
+
+atl Team Stats Data 
+No.: 2
+Player: Matt Ryan
+Age: 33
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 187
+Att: 263
+Cmp%: 71.1
+Yds: 2335
+Td: 15
+Td%: 5.7
+Int: 2
+Int%: 0.8
+Y/A: 8.9
+Y/C: 12.5
+Y/G: 333.6
+QBR: 76.3
+Sacked: 20
+No.: 8
+Player: Matt Schaub
+Age: 37
+Pos: 
+Games: 2
+Started: 0
+Cmp: 5
+Att: 7
+Cmp%: 71.4
+Yds: 20
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 2.9
+Y/C: 4.0
+Y/G: 10.0
+QBR: 63.0
+Sacked: 0
+No.: 26
+Player: Tevin Coleman
+Age: 25
+Pos: RB
+Games: 7
+Started: 5
+RushAtt: 82
+RushYds: 310
+RushTd: 2
+RushYds/Att: 3.8
+RushYds/Game: 44.3
+Att/Game: 11.7
+RecTargets: 18
+RecCatch: 15
+RecYds: 137
+Yds/Rec: 9.1
+RecTd: 2
+Rec/Game: 2.1
+Yds/Game: 19.6
+Rec%: 83.3%
+Fmb: 1
+No.: 25
+Player: Ito Smith
+Age: 23
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 39
+RushYds: 118
+RushTd: 3
+RushYds/Att: 3.0
+RushYds/Game: 16.9
+Att/Game: 5.6
+RecTargets: 13
+RecCatch: 12
+RecYds: 95
+Yds/Rec: 7.9
+RecTd: 0
+Rec/Game: 1.7
+Yds/Game: 13.6
+Rec%: 92.3%
+Fmb: 1
+No.: 2
+Player: Matt Ryan
+Age: 33
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 16
+RushYds: 67
+RushTd: 2
+RushYds/Att: 4.2
+RushYds/Game: 9.6
+Att/Game: 2.3
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 2
+No.: 24
+Player: Devonta Freeman
+Age: 26
+Pos: rb
+Games: 2
+Started: 2
+RushAtt: 14
+RushYds: 68
+RushTd: 0
+RushYds/Att: 4.9
+RushYds/Game: 34.0
+Att/Game: 7.0
+RecTargets: 7
+RecCatch: 5
+RecYds: 23
+Yds/Rec: 4.6
+RecTd: 0
+Rec/Game: 2.5
+Yds/Game: 11.5
+Rec%: 71.4%
+Fmb: 0
+No.: 18
+Player: Calvin Ridley
+Age: 24
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 3
+RushYds: 13
+RushTd: 0
+RushYds/Att: 4.3
+RushYds/Game: 1.9
+Att/Game: 0.4
+RecTargets: 35
+RecCatch: 27
+RecYds: 392
+Yds/Rec: 14.5
+RecTd: 6
+Rec/Game: 3.9
+Yds/Game: 56.0
+Rec%: 77.1%
+Fmb: 1
+No.: 11
+Player: Julio Jones
+Age: 29
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 1
+RushYds: 11
+RushTd: 0
+RushYds/Att: 11.0
+RushYds/Game: 1.6
+Att/Game: 0.1
+RecTargets: 81
+RecCatch: 53
+RecYds: 812
+Yds/Rec: 15.3
+RecTd: 0
+Rec/Game: 7.6
+Yds/Game: 116.0
+Rec%: 65.4%
+Fmb: 1
+No.: 12
+Player: Mohamed Sanu
+Age: 29
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 1
+RushYds: -4
+RushTd: 0
+RushYds/Att: -4.0
+RushYds/Game: -0.6
+Att/Game: 0.1
+RecTargets: 35
+RecCatch: 24
+RecYds: 324
+Yds/Rec: 13.5
+RecTd: 3
+Rec/Game: 3.4
+Yds/Game: 46.3
+Rec%: 68.6%
+Fmb: 0
+No.: 8
+Player: Matt Schaub
+Age: 37
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 1
+RushYds: 0
+RushTd: 0
+RushYds/Att: 0.0
+RushYds/Game: 0.0
+Att/Game: 0.5
+RecTargets: 1
+RecCatch: 1
+RecYds: -7
+Yds/Rec: -7.0
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: -3.5
+Rec%: 100.0%
+Fmb: 1
+No.: 81
+Player: Austin Hooper
+Age: 24
+Pos: te
+Games: 7
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 41
+RecCatch: 33
+RecYds: 321
+Yds/Rec: 9.7
+RecTd: 2
+Rec/Game: 4.7
+Yds/Game: 45.9
+Rec%: 80.5%
+Fmb: 0
+No.: 17
+Player: Marvin Hall
+Age: 25
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 9
+RecCatch: 8
+RecYds: 127
+Yds/Rec: 15.9
+RecTd: 1
+Rec/Game: 1.1
+Yds/Game: 18.1
+Rec%: 88.9%
+Fmb: 0
+No.: 14
+Player: Justin Hardy
+Age: 27
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 10
+RecCatch: 6
+RecYds: 61
+Yds/Rec: 10.2
+RecTd: 0
+Rec/Game: 0.9
+Yds/Game: 8.7
+Rec%: 60.0%
+Fmb: 1
+No.: 82
+Player: Logan Paulsen
+Age: 31
+Pos: TE
+Games: 7
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 3
+RecYds: 38
+Yds/Rec: 12.7
+RecTd: 1
+Rec/Game: 0.4
+Yds/Game: 5.4
+Rec%: 100.0%
+Fmb: 0
+No.: 30
+Player: Ricky Ortiz
+Age: 24
+Pos: FB
+Games: 7
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 2
+RecYds: 7
+Yds/Rec: 3.5
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 1.0
+Rec%: 66.7%
+Fmb: 0
+No.: 85
+Player: Eric Saubert
+Age: 24
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 2
+RecYds: 16
+Yds/Rec: 8.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 2.3
+Rec%: 50.0%
+Fmb: 0
+No.: 83
+Player: Russell Gage
+Age: 22
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 9
+Yds/Rec: 9.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 1.5
+Rec%: 100.0%
+Fmb: 0
+
+rav Team Stats Data 
+No.: 5
+Player: Joe Flacco
+Age: 33
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 187
+Att: 303
+Cmp%: 61.7
+Yds: 2067
+Td: 11
+Td%: 3.6
+Int: 4
+Int%: 1.3
+Y/A: 6.8
+Y/C: 11.1
+Y/G: 295.3
+QBR: 62.0
+Sacked: 12
+No.: 8
+Player: Lamar Jackson
+Age: 21
+Pos: 
+Games: 7
+Started: 0
+Cmp: 2
+Att: 6
+Cmp%: 33.3
+Yds: 29
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 4.8
+Y/C: 14.5
+Y/G: 4.1
+QBR: 74.2
+Sacked: 1
+No.: 34
+Player: Alex Collins
+Age: 24
+Pos: RB
+Games: 7
+Started: 7
+RushAtt: 87
+RushYds: 309
+RushTd: 4
+RushYds/Att: 3.6
+RushYds/Game: 44.1
+Att/Game: 12.4
+RecTargets: 18
+RecCatch: 12
+RecYds: 87
+Yds/Rec: 7.3
+RecTd: 1
+Rec/Game: 1.7
+Yds/Game: 12.4
+Rec%: 66.7%
+Fmb: 2
+No.: 37
+Player: Javorius Allen
+Age: 27
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 38
+RushYds: 100
+RushTd: 3
+RushYds/Att: 2.6
+RushYds/Game: 14.3
+Att/Game: 5.4
+RecTargets: 33
+RecCatch: 27
+RecYds: 170
+Yds/Rec: 6.3
+RecTd: 1
+Rec/Game: 3.9
+Yds/Game: 24.3
+Rec%: 81.8%
+Fmb: 1
+No.: 8
+Player: Lamar Jackson
+Age: 21
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 20
+RushYds: 103
+RushTd: 1
+RushYds/Att: 5.2
+RushYds/Game: 14.7
+Att/Game: 2.9
+RecTargets: 1
+RecCatch: 0
+RecYds: 0
+Yds/Rec: 
+RecTd: 0
+Rec/Game: 0.0
+Yds/Game: 0.0
+Rec%: 0.0%
+Fmb: 1
+No.: 5
+Player: Joe Flacco
+Age: 33
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 17
+RushYds: 31
+RushTd: 0
+RushYds/Att: 1.8
+RushYds/Game: 4.4
+Att/Game: 2.4
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 3
+No.: 30
+Player: Kenneth Dixon
+Age: 24
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 13
+RushYds: 44
+RushTd: 1
+RushYds/Att: 3.4
+RushYds/Game: 44.0
+Att/Game: 13.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 35
+Player: Gus Edwards
+Age: 23
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 12
+RushYds: 42
+RushTd: 0
+RushYds/Att: 3.5
+RushYds/Game: 21.0
+Att/Game: 6.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 10
+Player: Chris Moore
+Age: 25
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 3
+RushYds: 14
+RushTd: 0
+RushYds/Att: 4.7
+RushYds/Game: 2.0
+Att/Game: 0.4
+RecTargets: 12
+RecCatch: 9
+RecYds: 79
+Yds/Rec: 8.8
+RecTd: 0
+Rec/Game: 1.3
+Yds/Game: 11.3
+Rec%: 75.0%
+Fmb: 0
+No.: 13
+Player: John Brown
+Age: 28
+Pos: lb/WR
+Games: 7
+Started: 6
+RushAtt: 2
+RushYds: 4
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 0.6
+Att/Game: 0.3
+RecTargets: 54
+RecCatch: 28
+RecYds: 558
+Yds/Rec: 19.9
+RecTd: 4
+Rec/Game: 4.0
+Yds/Game: 79.7
+Rec%: 51.9%
+Fmb: 0
+No.: 87
+Player: Maxx Williams
+Age: 24
+Pos: TE
+Games: 7
+Started: 5
+RushAtt: 2
+RushYds: 8
+RushTd: 0
+RushYds/Att: 4.0
+RushYds/Game: 1.1
+Att/Game: 0.3
+RecTargets: 14
+RecCatch: 14
+RecYds: 127
+Yds/Rec: 9.1
+RecTd: 0
+Rec/Game: 2.0
+Yds/Game: 18.1
+Rec%: 100.0%
+Fmb: 0
+No.: 83
+Player: Willie Snead
+Age: 26
+Pos: wr
+Games: 7
+Started: 3
+RushAtt: 1
+RushYds: 13
+RushTd: 0
+RushYds/Att: 13.0
+RushYds/Game: 1.9
+Att/Game: 0.1
+RecTargets: 50
+RecCatch: 33
+RecYds: 336
+Yds/Rec: 10.2
+RecTd: 1
+Rec/Game: 4.7
+Yds/Game: 48.0
+Rec%: 66.0%
+Fmb: 0
+No.: 47
+Player: De'Lance Turner
+Age: 23
+Pos: 
+Games: 4
+Started: 0
+RushAtt: 1
+RushYds: 4
+RushTd: 0
+RushYds/Att: 4.0
+RushYds/Game: 1.0
+Att/Game: 0.3
+RecTargets: 2
+RecCatch: 2
+RecYds: 17
+Yds/Rec: 8.5
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 4.3
+Rec%: 100.0%
+Fmb: 0
+No.: 81
+Player: Hayden Hurst
+Age: 25
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 1
+RushYds: 0
+RushTd: 0
+RushYds/Att: 0.0
+RushYds/Game: 0.0
+Att/Game: 0.3
+RecTargets: 5
+RecCatch: 1
+RecYds: 7
+Yds/Rec: 7.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 2.3
+Rec%: 20.0%
+Fmb: 0
+No.: 15
+Player: Michael Crabtree
+Age: 31
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 64
+RecCatch: 35
+RecYds: 409
+Yds/Rec: 11.7
+RecTd: 2
+Rec/Game: 5.0
+Yds/Game: 58.4
+Rec%: 54.7%
+Fmb: 0
+No.: 89
+Player: Mark Andrews
+Age: 22
+Pos: te
+Games: 7
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 21
+RecCatch: 14
+RecYds: 163
+Yds/Rec: 11.6
+RecTd: 2
+Rec/Game: 2.0
+Yds/Game: 23.3
+Rec%: 66.7%
+Fmb: 0
+No.: 86
+Player: Nick Boyle
+Age: 25
+Pos: TE
+Games: 7
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 24
+RecCatch: 13
+RecYds: 129
+Yds/Rec: 9.9
+RecTd: 0
+Rec/Game: 1.9
+Yds/Game: 18.4
+Rec%: 54.2%
+Fmb: 0
+No.: 14
+Player: Tim White
+Age: 24
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 14
+Yds/Rec: 14.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 4.7
+Rec%: 100.0%
+Fmb: 1
+
+buf Team Stats Data 
+No.: 17
+Player: Josh Allen
+Age: 22
+Pos: QB
+Games: 6
+Started: 5
+Cmp: 75
+Att: 139
+Cmp%: 54.0
+Yds: 832
+Td: 2
+Td%: 1.4
+Int: 5
+Int%: 3.6
+Y/A: 6.0
+Y/C: 11.1
+Y/G: 138.7
+QBR: 28.9
+Sacked: 21
+No.: 3
+Player: Derek Anderson
+Age: 35
+Pos: qb
+Games: 1
+Started: 1
+Cmp: 20
+Att: 31
+Cmp%: 64.5
+Yds: 175
+Td: 0
+Td%: 0.0
+Int: 3
+Int%: 9.7
+Y/A: 5.6
+Y/C: 8.8
+Y/G: 175.0
+QBR: 29.0
+Sacked: 2
+No.: 2
+Player: Nathan Peterman
+Age: 24
+Pos: qb
+Games: 2
+Started: 1
+Cmp: 11
+Att: 30
+Cmp%: 36.7
+Yds: 85
+Td: 1
+Td%: 3.3
+Int: 4
+Int%: 13.3
+Y/A: 2.8
+Y/C: 7.7
+Y/G: 42.5
+QBR: 4.9
+Sacked: 3
+No.: 9
+Player: Corey Bojorquez
+Age: 22
+Pos: P
+Games: 7
+Started: 0
+Cmp: 0
+Att: 1
+Cmp%: 0.0
+Yds: 0
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 0.0
+Y/C: 
+Y/G: 0.0
+QBR: 
+Sacked: 0
+No.: 33
+Player: Chris Ivory
+Age: 30
+Pos: rb
+Games: 7
+Started: 1
+RushAtt: 67
+RushYds: 210
+RushTd: 1
+RushYds/Att: 3.1
+RushYds/Game: 30.0
+Att/Game: 9.6
+RecTargets: 13
+RecCatch: 8
+RecYds: 129
+Yds/Rec: 16.1
+RecTd: 0
+Rec/Game: 1.1
+Yds/Game: 18.4
+Rec%: 61.5%
+Fmb: 0
+No.: 25
+Player: LeSean McCoy
+Age: 30
+Pos: RB
+Games: 6
+Started: 6
+RushAtt: 63
+RushYds: 244
+RushTd: 0
+RushYds/Att: 3.9
+RushYds/Game: 40.7
+Att/Game: 10.5
+RecTargets: 21
+RecCatch: 13
+RecYds: 85
+Yds/Rec: 6.5
+RecTd: 0
+Rec/Game: 2.2
+Yds/Game: 14.2
+Rec%: 61.9%
+Fmb: 0
+No.: 17
+Player: Josh Allen
+Age: 22
+Pos: QB
+Games: 6
+Started: 5
+RushAtt: 35
+RushYds: 155
+RushTd: 3
+RushYds/Att: 4.4
+RushYds/Game: 25.8
+Att/Game: 5.8
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 4
+No.: 45
+Player: Marcus Murphy
+Age: 27
+Pos: 
+Games: 4
+Started: 0
+RushAtt: 21
+RushYds: 123
+RushTd: 0
+RushYds/Att: 5.9
+RushYds/Game: 30.8
+Att/Game: 5.3
+RecTargets: 14
+RecCatch: 7
+RecYds: 25
+Yds/Rec: 3.6
+RecTd: 0
+Rec/Game: 1.8
+Yds/Game: 6.3
+Rec%: 50.0%
+Fmb: 1
+No.: 2
+Player: Nathan Peterman
+Age: 24
+Pos: qb
+Games: 2
+Started: 1
+RushAtt: 2
+RushYds: 3
+RushTd: 0
+RushYds/Att: 1.5
+RushYds/Game: 1.5
+Att/Game: 1.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 14
+Player: Ray-Ray McCloud
+Age: 22
+Pos: fb
+Games: 4
+Started: 1
+RushAtt: 1
+RushYds: -3
+RushTd: 0
+RushYds/Att: -3.0
+RushYds/Game: -0.8
+Att/Game: 0.3
+RecTargets: 3
+RecCatch: 3
+RecYds: 15
+Yds/Rec: 5.0
+RecTd: 0
+Rec/Game: 0.8
+Yds/Game: 3.8
+Rec%: 100.0%
+Fmb: 2
+No.: 9
+Player: Corey Bojorquez
+Age: 22
+Pos: P
+Games: 7
+Started: 0
+RushAtt: 1
+RushYds: 0
+RushTd: 0
+RushYds/Att: 0.0
+RushYds/Game: 0.0
+Att/Game: 0.1
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 1
+No.: 11
+Player: Zay Jones
+Age: 23
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 34
+RecCatch: 19
+RecYds: 226
+Yds/Rec: 11.9
+RecTd: 1
+Rec/Game: 2.7
+Yds/Game: 32.3
+Rec%: 55.9%
+Fmb: 0
+No.: 85
+Player: Charles Clay
+Age: 29
+Pos: TE
+Games: 7
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 25
+RecCatch: 16
+RecYds: 133
+Yds/Rec: 8.3
+RecTd: 0
+Rec/Game: 2.3
+Yds/Game: 19.0
+Rec%: 64.0%
+Fmb: 1
+No.: 13
+Player: Kelvin Benjamin
+Age: 27
+Pos: WR
+Games: 7
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 37
+RecCatch: 14
+RecYds: 217
+Yds/Rec: 15.5
+RecTd: 1
+Rec/Game: 2.0
+Yds/Game: 31.0
+Rec%: 37.8%
+Fmb: 0
+No.: 80
+Player: Jason Croom
+Age: 24
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 13
+RecCatch: 9
+RecYds: 81
+Yds/Rec: 9.0
+RecTd: 1
+Rec/Game: 1.3
+Yds/Game: 11.6
+Rec%: 69.2%
+Fmb: 0
+No.: 18
+Player: Andre Holmes
+Age: 30
+Pos: wr
+Games: 7
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 18
+RecCatch: 8
+RecYds: 84
+Yds/Rec: 10.5
+RecTd: 0
+Rec/Game: 1.1
+Yds/Game: 12.0
+Rec%: 44.4%
+Fmb: 0
+No.: 82
+Player: Logan Thomas
+Age: 27
+Pos: te
+Games: 5
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 3
+RecYds: 31
+Yds/Rec: 10.3
+RecTd: 0
+Rec/Game: 0.6
+Yds/Game: 6.2
+Rec%: 75.0%
+Fmb: 0
+No.: 16
+Player: Robert Foster
+Age: 24
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 9
+RecCatch: 2
+RecYds: 30
+Yds/Rec: 15.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 5.0
+Rec%: 22.2%
+Fmb: 0
+No.: 10
+Player: Jeremy Kerley
+Age: 30
+Pos: wr
+Games: 1
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 2
+RecYds: 7
+Yds/Rec: 3.5
+RecTd: 0
+Rec/Game: 2.0
+Yds/Game: 7.0
+Rec%: 50.0%
+Fmb: 0
+No.: 42
+Player: Patrick DiMarco
+Age: 29
+Pos: fb
+Games: 7
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 24
+Yds/Rec: 24.0
+RecTd: 0
+Rec/Game: 0.1
+Yds/Game: 3.4
+Rec%: 100.0%
+Fmb: 0
+No.: 88
+Player: Khari Lee
+Age: 26
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 5
+Yds/Rec: 5.0
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 2.5
+Rec%: 100.0%
+Fmb: 0
+
+car Team Stats Data 
+No.: 1
+Player: Cam Newton
+Age: 29
+Pos: QB
+Games: 6
+Started: 6
+Cmp: 137
+Att: 209
+Cmp%: 65.6
+Yds: 1427
+Td: 11
+Td%: 5.3
+Int: 4
+Int%: 1.9
+Y/A: 6.8
+Y/C: 10.4
+Y/G: 237.8
+QBR: 62.3
+Sacked: 10
+No.: 22
+Player: Christian McCaffrey
+Age: 22
+Pos: RB
+Games: 6
+Started: 6
+RushAtt: 78
+RushYds: 378
+RushTd: 0
+RushYds/Att: 4.8
+RushYds/Game: 63.0
+Att/Game: 13.0
+RecTargets: 46
+RecCatch: 40
+RecYds: 289
+Yds/Rec: 7.2
+RecTd: 1
+Rec/Game: 6.7
+Yds/Game: 48.2
+Rec%: 87.0%
+Fmb: 1
+No.: 1
+Player: Cam Newton
+Age: 29
+Pos: QB
+Games: 6
+Started: 6
+RushAtt: 52
+RushYds: 257
+RushTd: 3
+RushYds/Att: 4.9
+RushYds/Game: 42.8
+Att/Game: 8.7
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 3
+No.: 20
+Player: C.J. Anderson
+Age: 27
+Pos: rb
+Games: 6
+Started: 1
+RushAtt: 16
+RushYds: 84
+RushTd: 0
+RushYds/Att: 5.3
+RushYds/Game: 14.0
+Att/Game: 2.7
+RecTargets: 3
+RecCatch: 1
+RecYds: 24
+Yds/Rec: 24.0
+RecTd: 1
+Rec/Game: 0.2
+Yds/Game: 4.0
+Rec%: 33.3%
+Fmb: 0
+No.: 12
+Player: D.J. Moore
+Age: 21
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 4
+RushYds: 46
+RushTd: 0
+RushYds/Att: 11.5
+RushYds/Game: 7.7
+Att/Game: 0.7
+RecTargets: 18
+RecCatch: 13
+RecYds: 191
+Yds/Rec: 14.7
+RecTd: 1
+Rec/Game: 2.2
+Yds/Game: 31.8
+Rec%: 72.2%
+Fmb: 2
+No.: 40
+Player: Alex Armah
+Age: 24
+Pos: fb
+Games: 6
+Started: 1
+RushAtt: 4
+RushYds: 10
+RushTd: 1
+RushYds/Att: 2.5
+RushYds/Game: 1.7
+Att/Game: 0.7
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 10
+Player: Curtis Samuel
+Age: 22
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 2
+RushYds: 9
+RushTd: 1
+RushYds/Att: 4.5
+RushYds/Game: 3.0
+Att/Game: 0.7
+RecTargets: 5
+RecCatch: 3
+RecYds: 53
+Yds/Rec: 17.7
+RecTd: 1
+Rec/Game: 1.0
+Yds/Game: 17.7
+Rec%: 60.0%
+Fmb: 0
+No.: 13
+Player: Jarius Wright
+Age: 29
+Pos: fb/WR
+Games: 6
+Started: 4
+RushAtt: 1
+RushYds: 34
+RushTd: 0
+RushYds/Att: 34.0
+RushYds/Game: 5.7
+Att/Game: 0.2
+RecTargets: 23
+RecCatch: 15
+RecYds: 157
+Yds/Rec: 10.5
+RecTd: 1
+Rec/Game: 2.5
+Yds/Game: 26.2
+Rec%: 65.2%
+Fmb: 1
+No.: 17
+Player: Devin Funchess
+Age: 24
+Pos: WR
+Games: 6
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 47
+RecCatch: 29
+RecYds: 374
+Yds/Rec: 12.9
+RecTd: 3
+Rec/Game: 4.8
+Yds/Game: 62.3
+Rec%: 61.7%
+Fmb: 0
+No.: 11
+Player: Torrey Smith
+Age: 29
+Pos: WR
+Games: 6
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 27
+RecCatch: 16
+RecYds: 171
+Yds/Rec: 10.7
+RecTd: 2
+Rec/Game: 2.7
+Yds/Game: 28.5
+Rec%: 59.3%
+Fmb: 0
+No.: 80
+Player: Ian Thomas
+Age: 22
+Pos: TE
+Games: 6
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 16
+RecCatch: 10
+RecYds: 72
+Yds/Rec: 7.2
+RecTd: 0
+Rec/Game: 1.7
+Yds/Game: 12.0
+Rec%: 62.5%
+Fmb: 0
+No.: 88
+Player: Greg Olsen
+Age: 33
+Pos: TE
+Games: 3
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 14
+RecCatch: 8
+RecYds: 86
+Yds/Rec: 10.8
+RecTd: 1
+Rec/Game: 2.7
+Yds/Game: 28.7
+Rec%: 57.1%
+Fmb: 0
+No.: 18
+Player: Damiere Byrd
+Age: 25
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 8
+Yds/Rec: 8.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 2.7
+Rec%: 100.0%
+Fmb: 0
+No.: 82
+Player: Chris Manhertz
+Age: 26
+Pos: te
+Games: 6
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 2
+RecCatch: 1
+RecYds: 2
+Yds/Rec: 2.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 0.3
+Rec%: 50.0%
+Fmb: 0
+
+chi Team Stats Data 
+No.: 10
+Player: Mitch Trubisky
+Age: 24
+Pos: QB
+Games: 6
+Started: 6
+Cmp: 139
+Att: 211
+Cmp%: 65.9
+Yds: 1594
+Td: 13
+Td%: 6.2
+Int: 6
+Int%: 2.8
+Y/A: 7.6
+Y/C: 11.5
+Y/G: 265.7
+QBR: 
+Sacked: 14
+No.: 24
+Player: Jordan Howard
+Age: 24
+Pos: RB
+Games: 6
+Started: 6
+RushAtt: 90
+RushYds: 311
+RushTd: 2
+RushYds/Att: 3.5
+RushYds/Game: 51.8
+Att/Game: 15.0
+RecTargets: 14
+RecCatch: 11
+RecYds: 87
+Yds/Rec: 7.9
+RecTd: 0
+Rec/Game: 1.8
+Yds/Game: 14.5
+Rec%: 78.6%
+Fmb: 1
+No.: 29
+Player: Tarik Cohen
+Age: 23
+Pos: RB
+Games: 6
+Started: 3
+RushAtt: 38
+RushYds: 184
+RushTd: 1
+RushYds/Att: 4.8
+RushYds/Game: 30.7
+Att/Game: 6.3
+RecTargets: 37
+RecCatch: 29
+RecYds: 328
+Yds/Rec: 11.3
+RecTd: 2
+Rec/Game: 4.8
+Yds/Game: 54.7
+Rec%: 78.4%
+Fmb: 1
+No.: 10
+Player: Mitch Trubisky
+Age: 24
+Pos: QB
+Games: 6
+Started: 6
+RushAtt: 31
+RushYds: 245
+RushTd: 2
+RushYds/Att: 7.9
+RushYds/Game: 40.8
+Att/Game: 5.2
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 3
+No.: 18
+Player: Taylor Gabriel
+Age: 27
+Pos: WR
+Games: 6
+Started: 4
+RushAtt: 6
+RushYds: 36
+RushTd: 0
+RushYds/Att: 6.0
+RushYds/Game: 6.0
+Att/Game: 1.0
+RecTargets: 38
+RecCatch: 30
+RecYds: 329
+Yds/Rec: 11.0
+RecTd: 2
+Rec/Game: 5.0
+Yds/Game: 54.8
+Rec%: 78.9%
+Fmb: 0
+No.: 30
+Player: Benny Cunningham
+Age: 28
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 4
+RushYds: 8
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 1.3
+Att/Game: 0.7
+RecTargets: 2
+RecCatch: 1
+RecYds: 9
+Yds/Rec: 9.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 1.5
+Rec%: 50.0%
+Fmb: 0
+No.: 4
+Player: Chase Daniel
+Age: 32
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 2
+RushYds: -2
+RushTd: 0
+RushYds/Att: -1.0
+RushYds/Game: -1.0
+Att/Game: 1.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 80
+Player: Trey Burton
+Age: 27
+Pos: TE
+Games: 6
+Started: 6
+RushAtt: 1
+RushYds: 2
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 0.3
+Att/Game: 0.2
+RecTargets: 34
+RecCatch: 24
+RecYds: 325
+Yds/Rec: 13.5
+RecTd: 4
+Rec/Game: 4.0
+Yds/Game: 54.2
+Rec%: 70.6%
+Fmb: 0
+No.: 12
+Player: Allen Robinson
+Age: 25
+Pos: WR
+Games: 6
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 43
+RecCatch: 25
+RecYds: 285
+Yds/Rec: 11.4
+RecTd: 2
+Rec/Game: 4.2
+Yds/Game: 47.5
+Rec%: 58.1%
+Fmb: 0
+No.: 17
+Player: Anthony Miller
+Age: 24
+Pos: wr
+Games: 5
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 22
+RecCatch: 11
+RecYds: 124
+Yds/Rec: 11.3
+RecTd: 2
+Rec/Game: 2.2
+Yds/Game: 24.8
+Rec%: 50.0%
+Fmb: 0
+No.: 15
+Player: Josh Bellamy
+Age: 29
+Pos: wr
+Games: 6
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 7
+RecCatch: 3
+RecYds: 28
+Yds/Rec: 9.3
+RecTd: 1
+Rec/Game: 0.5
+Yds/Game: 4.7
+Rec%: 42.9%
+Fmb: 0
+No.: 88
+Player: Dion Sims
+Age: 27
+Pos: TE
+Games: 6
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 2
+RecYds: 9
+Yds/Rec: 4.5
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 1.5
+Rec%: 50.0%
+Fmb: 0
+No.: 11
+Player: Kevin White
+Age: 26
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 2
+RecCatch: 2
+RecYds: 64
+Yds/Rec: 32.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 10.7
+Rec%: 100.0%
+Fmb: 0
+No.: 46
+Player: Michael Burton
+Age: 26
+Pos: fb
+Games: 3
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 6
+Yds/Rec: 6.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 2.0
+Rec%: 100.0%
+Fmb: 0
+
+cin Team Stats Data 
+No.: 14
+Player: Andy Dalton
+Age: 31
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 164
+Att: 258
+Cmp%: 63.6
+Yds: 1822
+Td: 15
+Td%: 5.8
+Int: 8
+Int%: 3.1
+Y/A: 7.1
+Y/C: 11.1
+Y/G: 260.3
+QBR: 63.2
+Sacked: 14
+No.: 6
+Player: Jeff Driskel
+Age: 25
+Pos: 
+Games: 1
+Started: 0
+Cmp: 4
+Att: 4
+Cmp%: 100.0
+Yds: 39
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 9.8
+Y/C: 9.8
+Y/G: 39.0
+QBR: 95.6
+Sacked: 0
+No.: 28
+Player: Joe Mixon
+Age: 22
+Pos: RB
+Games: 5
+Started: 5
+RushAtt: 84
+RushYds: 386
+RushTd: 2
+RushYds/Att: 4.6
+RushYds/Game: 77.2
+Att/Game: 16.8
+RecTargets: 24
+RecCatch: 16
+RecYds: 100
+Yds/Rec: 6.3
+RecTd: 1
+Rec/Game: 3.2
+Yds/Game: 20.0
+Rec%: 66.7%
+Fmb: 0
+No.: 25
+Player: Giovani Bernard
+Age: 27
+Pos: rb
+Games: 4
+Started: 2
+RushAtt: 34
+RushYds: 155
+RushTd: 3
+RushYds/Att: 4.6
+RushYds/Game: 38.8
+Att/Game: 8.5
+RecTargets: 21
+RecCatch: 14
+RecYds: 78
+Yds/Rec: 5.6
+RecTd: 0
+Rec/Game: 3.5
+Yds/Game: 19.5
+Rec%: 66.7%
+Fmb: 0
+No.: 32
+Player: Mark Walton
+Age: 21
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 11
+RushYds: 17
+RushTd: 0
+RushYds/Att: 1.5
+RushYds/Game: 3.4
+Att/Game: 2.2
+RecTargets: 7
+RecCatch: 4
+RecYds: 31
+Yds/Rec: 7.8
+RecTd: 0
+Rec/Game: 0.8
+Yds/Game: 6.2
+Rec%: 57.1%
+Fmb: 0
+No.: 14
+Player: Andy Dalton
+Age: 31
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 8
+RushYds: 31
+RushTd: 0
+RushYds/Att: 3.9
+RushYds/Game: 4.4
+Att/Game: 1.1
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 1
+No.: 83
+Player: Tyler Boyd
+Age: 24
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 1
+RushYds: 5
+RushTd: 0
+RushYds/Att: 5.0
+RushYds/Game: 0.7
+Att/Game: 0.1
+RecTargets: 56
+RecCatch: 40
+RecYds: 482
+Yds/Rec: 12.1
+RecTd: 4
+Rec/Game: 5.7
+Yds/Game: 68.9
+Rec%: 71.4%
+Fmb: 0
+No.: 12
+Player: Alex Erickson
+Age: 26
+Pos: wr
+Games: 7
+Started: 1
+RushAtt: 1
+RushYds: 8
+RushTd: 0
+RushYds/Att: 8.0
+RushYds/Game: 1.1
+Att/Game: 0.1
+RecTargets: 10
+RecCatch: 7
+RecYds: 39
+Yds/Rec: 5.6
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 5.6
+Rec%: 70.0%
+Fmb: 0
+No.: 15
+Player: John Ross
+Age: 24
+Pos: wr
+Games: 5
+Started: 3
+RushAtt: 1
+RushYds: -3
+RushTd: 0
+RushYds/Att: -3.0
+RushYds/Game: -0.6
+Att/Game: 0.2
+RecTargets: 16
+RecCatch: 7
+RecYds: 79
+Yds/Rec: 11.3
+RecTd: 2
+Rec/Game: 1.4
+Yds/Game: 15.8
+Rec%: 43.8%
+Fmb: 0
+No.: 6
+Player: Jeff Driskel
+Age: 25
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 1
+RushYds: 5
+RushTd: 0
+RushYds/Att: 5.0
+RushYds/Game: 5.0
+Att/Game: 1.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 42
+Player: Clayton Fejedelem
+Age: 25
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 1
+RushYds: 0
+RushTd: 0
+RushYds/Att: 0.0
+RushYds/Game: 0.0
+Att/Game: 0.1
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 1
+No.: 18
+Player: A.J. Green
+Age: 30
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 69
+RecCatch: 40
+RecYds: 611
+Yds/Rec: 15.3
+RecTd: 5
+Rec/Game: 5.7
+Yds/Game: 87.3
+Rec%: 58.0%
+Fmb: 2
+No.: 87
+Player: C.J. Uzomah
+Age: 25
+Pos: TE
+Games: 7
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 19
+RecCatch: 17
+RecYds: 184
+Yds/Rec: 10.8
+RecTd: 2
+Rec/Game: 2.4
+Yds/Game: 26.3
+Rec%: 89.5%
+Fmb: 0
+No.: 85
+Player: Tyler Eifert
+Age: 28
+Pos: te
+Games: 4
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 19
+RecCatch: 15
+RecYds: 179
+Yds/Rec: 11.9
+RecTd: 1
+Rec/Game: 3.8
+Yds/Game: 44.8
+Rec%: 78.9%
+Fmb: 0
+No.: 81
+Player: Tyler Kroft
+Age: 26
+Pos: te
+Games: 5
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 4
+RecYds: 36
+Yds/Rec: 9.0
+RecTd: 0
+Rec/Game: 0.8
+Yds/Game: 7.2
+Rec%: 66.7%
+Fmb: 0
+No.: 16
+Player: Cody Core
+Age: 24
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 3
+RecYds: 30
+Yds/Rec: 10.0
+RecTd: 0
+Rec/Game: 0.6
+Yds/Game: 6.0
+Rec%: 50.0%
+Fmb: 0
+No.: 80
+Player: Josh Malone
+Age: 22
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 1
+RecYds: 12
+Yds/Rec: 12.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 2.0
+Rec%: 25.0%
+Fmb: 0
+
+cle Team Stats Data 
+No.: 6
+Player: Baker Mayfield
+Age: 23
+Pos: QB
+Games: 5
+Started: 4
+Cmp: 108
+Att: 187
+Cmp%: 57.8
+Yds: 1291
+Td: 6
+Td%: 3.2
+Int: 5
+Int%: 2.7
+Y/A: 6.9
+Y/C: 12.0
+Y/G: 258.2
+QBR: 39.9
+Sacked: 18
+No.: 5
+Player: Tyrod Taylor
+Age: 29
+Pos: qb
+Games: 3
+Started: 3
+Cmp: 41
+Att: 84
+Cmp%: 48.8
+Yds: 462
+Td: 2
+Td%: 2.4
+Int: 2
+Int%: 2.4
+Y/A: 5.5
+Y/C: 11.3
+Y/G: 154.0
+QBR: 33.5
+Sacked: 13
+No.: 34
+Player: Carlos Hyde
+Age: 28
+Pos: RB
+Games: 6
+Started: 5
+RushAtt: 114
+RushYds: 382
+RushTd: 5
+RushYds/Att: 3.4
+RushYds/Game: 63.7
+Att/Game: 19.0
+RecTargets: 10
+RecCatch: 6
+RecYds: 29
+Yds/Rec: 4.8
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 4.8
+Rec%: 60.0%
+Fmb: 1
+No.: 24
+Player: Nick Chubb
+Age: 23
+Pos: rb
+Games: 7
+Started: 1
+RushAtt: 34
+RushYds: 253
+RushTd: 3
+RushYds/Att: 7.4
+RushYds/Game: 36.1
+Att/Game: 4.9
+RecTargets: 3
+RecCatch: 0
+RecYds: 0
+Yds/Rec: 
+RecTd: 0
+Rec/Game: 0.0
+Yds/Game: 0.0
+Rec%: 0.0%
+Fmb: 0
+No.: 29
+Player: Duke Johnson
+Age: 25
+Pos: rb
+Games: 7
+Started: 1
+RushAtt: 20
+RushYds: 107
+RushTd: 0
+RushYds/Att: 5.4
+RushYds/Game: 15.3
+Att/Game: 2.9
+RecTargets: 26
+RecCatch: 18
+RecYds: 187
+Yds/Rec: 10.4
+RecTd: 0
+Rec/Game: 2.6
+Yds/Game: 26.7
+Rec%: 69.2%
+Fmb: 1
+No.: 5
+Player: Tyrod Taylor
+Age: 29
+Pos: qb
+Games: 3
+Started: 3
+RushAtt: 16
+RushYds: 125
+RushTd: 1
+RushYds/Att: 7.8
+RushYds/Game: 41.7
+Att/Game: 5.3
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 3
+No.: 6
+Player: Baker Mayfield
+Age: 23
+Pos: QB
+Games: 5
+Started: 4
+RushAtt: 14
+RushYds: 82
+RushTd: 0
+RushYds/Att: 5.9
+RushYds/Game: 16.4
+Att/Game: 2.8
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 4
+No.: 11
+Player: Antonio Callaway
+Age: 21
+Pos: WR
+Games: 7
+Started: 5
+RushAtt: 2
+RushYds: 7
+RushTd: 0
+RushYds/Att: 3.5
+RushYds/Game: 1.0
+Att/Game: 0.3
+RecTargets: 42
+RecCatch: 16
+RecYds: 200
+Yds/Rec: 12.5
+RecTd: 1
+Rec/Game: 2.3
+Yds/Game: 28.6
+Rec%: 38.1%
+Fmb: 0
+No.: 13
+Player: Rod Streater
+Age: 30
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 1
+RushYds: -11
+RushTd: 0
+RushYds/Att: -11.0
+RushYds/Game: -3.7
+Att/Game: 0.3
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 80
+Player: Jarvis Landry
+Age: 26
+Pos: WR
+Games: 7
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 82
+RecCatch: 41
+RecYds: 489
+Yds/Rec: 11.9
+RecTd: 2
+Rec/Game: 5.9
+Yds/Game: 69.9
+Rec%: 50.0%
+Fmb: 0
+No.: 85
+Player: David Njoku
+Age: 22
+Pos: TE
+Games: 7
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 52
+RecCatch: 31
+RecYds: 297
+Yds/Rec: 9.6
+RecTd: 2
+Rec/Game: 4.4
+Yds/Game: 42.4
+Rec%: 59.6%
+Fmb: 0
+No.: 81
+Player: Rashard Higgins
+Age: 24
+Pos: wr
+Games: 5
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 23
+RecCatch: 16
+RecYds: 244
+Yds/Rec: 15.3
+RecTd: 1
+Rec/Game: 3.2
+Yds/Game: 48.8
+Rec%: 69.6%
+Fmb: 1
+No.: 18
+Player: Damion Ratley
+Age: 23
+Pos: wr
+Games: 4
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 11
+RecCatch: 9
+RecYds: 105
+Yds/Rec: 11.7
+RecTd: 0
+Rec/Game: 2.3
+Yds/Game: 26.3
+Rec%: 81.8%
+Fmb: 0
+No.: 88
+Player: Darren Fells
+Age: 32
+Pos: TE
+Games: 7
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 5
+RecYds: 84
+Yds/Rec: 16.8
+RecTd: 1
+Rec/Game: 0.7
+Yds/Game: 12.0
+Rec%: 83.3%
+Fmb: 0
+No.: 84
+Player: Derrick Willies
+Age: 24
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 5
+RecCatch: 3
+RecYds: 61
+Yds/Rec: 20.3
+RecTd: 0
+Rec/Game: 0.6
+Yds/Game: 12.2
+Rec%: 60.0%
+Fmb: 1
+No.: 82
+Player: Orson Charles
+Age: 27
+Pos: te
+Games: 7
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 1
+RecYds: 8
+Yds/Rec: 8.0
+RecTd: 0
+Rec/Game: 0.1
+Yds/Game: 1.1
+Rec%: 33.3%
+Fmb: 0
+No.: 87
+Player: Seth Devalve
+Age: 25
+Pos: te
+Games: 4
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 26
+Yds/Rec: 26.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 6.5
+Rec%: 100.0%
+Fmb: 0
+No.: 12
+Player: Josh Gordon
+Age: 27
+Pos: wr
+Games: 1
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 1
+RecYds: 17
+Yds/Rec: 17.0
+RecTd: 1
+Rec/Game: 1.0
+Yds/Game: 17.0
+Rec%: 33.3%
+Fmb: 0
+No.: 19
+Player: Breshad Perriman
+Age: 25
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 6
+Yds/Rec: 6.0
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 6.0
+Rec%: 100.0%
+Fmb: 0
+
+dal Team Stats Data 
+No.: 4
+Player: Dak Prescott
+Age: 25
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 128
+Att: 206
+Cmp%: 62.1
+Yds: 1417
+Td: 8
+Td%: 3.9
+Int: 4
+Int%: 1.9
+Y/A: 6.9
+Y/C: 11.1
+Y/G: 202.4
+QBR: 52.4
+Sacked: 23
+No.: 21
+Player: Ezekiel Elliott
+Age: 23
+Pos: RB
+Games: 7
+Started: 7
+RushAtt: 132
+RushYds: 619
+RushTd: 3
+RushYds/Att: 4.7
+RushYds/Game: 88.4
+Att/Game: 18.9
+RecTargets: 36
+RecCatch: 25
+RecYds: 175
+Yds/Rec: 7.0
+RecTd: 1
+Rec/Game: 3.6
+Yds/Game: 25.0
+Rec%: 69.4%
+Fmb: 2
+No.: 4
+Player: Dak Prescott
+Age: 25
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 40
+RushYds: 236
+RushTd: 2
+RushYds/Att: 5.9
+RushYds/Game: 33.7
+Att/Game: 5.7
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 6
+No.: 45
+Player: Rod Smith
+Age: 26
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 15
+RushYds: 41
+RushTd: 0
+RushYds/Att: 2.7
+RushYds/Game: 5.9
+Att/Game: 2.1
+RecTargets: 2
+RecCatch: 1
+RecYds: 0
+Yds/Rec: 0.0
+RecTd: 0
+Rec/Game: 0.1
+Yds/Game: 0.0
+Rec%: 50.0%
+Fmb: 0
+No.: 10
+Player: Tavon Austin
+Age: 28
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 6
+RushYds: 55
+RushTd: 0
+RushYds/Att: 9.2
+RushYds/Game: 9.2
+Att/Game: 1.0
+RecTargets: 9
+RecCatch: 7
+RecYds: 130
+Yds/Rec: 18.6
+RecTd: 2
+Rec/Game: 1.2
+Yds/Game: 21.7
+Rec%: 77.8%
+Fmb: 0
+No.: 27
+Player: Jourdan Lewis
+Age: 23
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 1
+RushYds: 7
+RushTd: 0
+RushYds/Att: 7.0
+RushYds/Game: 1.2
+Att/Game: 0.2
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 11
+Player: Cole Beasley
+Age: 29
+Pos: wr
+Games: 7
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 43
+RecCatch: 33
+RecYds: 350
+Yds/Rec: 10.6
+RecTd: 2
+Rec/Game: 4.7
+Yds/Game: 50.0
+Rec%: 76.7%
+Fmb: 0
+No.: 87
+Player: Geoff Swaim
+Age: 25
+Pos: TE
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 24
+RecCatch: 19
+RecYds: 205
+Yds/Rec: 10.8
+RecTd: 1
+Rec/Game: 2.7
+Yds/Game: 29.3
+Rec%: 79.2%
+Fmb: 0
+No.: 17
+Player: Allen Hurns
+Age: 27
+Pos: WR
+Games: 7
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 28
+RecCatch: 13
+RecYds: 158
+Yds/Rec: 12.2
+RecTd: 1
+Rec/Game: 1.9
+Yds/Game: 22.6
+Rec%: 46.4%
+Fmb: 1
+No.: 15
+Player: Deonte Thompson
+Age: 29
+Pos: WR
+Games: 7
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 18
+RecCatch: 12
+RecYds: 103
+Yds/Rec: 8.6
+RecTd: 0
+Rec/Game: 1.7
+Yds/Game: 14.7
+Rec%: 66.7%
+Fmb: 0
+No.: 13
+Player: Michael Gallup
+Age: 22
+Pos: wr
+Games: 7
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 22
+RecCatch: 10
+RecYds: 190
+Yds/Rec: 19.0
+RecTd: 1
+Rec/Game: 1.4
+Yds/Game: 27.1
+Rec%: 45.5%
+Fmb: 0
+No.: 80
+Player: Rico Gathers
+Age: 24
+Pos: te
+Games: 6
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 5
+RecCatch: 2
+RecYds: 46
+Yds/Rec: 23.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 7.7
+Rec%: 40.0%
+Fmb: 0
+No.: 89
+Player: Blake Jarwin
+Age: 24
+Pos: te
+Games: 7
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 2
+RecYds: 27
+Yds/Rec: 13.5
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 3.9
+Rec%: 33.3%
+Fmb: 0
+No.: 83
+Player: Terrance Williams
+Age: 29
+Pos: wr
+Games: 3
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 2
+RecYds: 18
+Yds/Rec: 9.0
+RecTd: 0
+Rec/Game: 0.7
+Yds/Game: 6.0
+Rec%: 66.7%
+Fmb: 0
+No.: 49
+Player: Jamize Olawale
+Age: 29
+Pos: fb/wr
+Games: 7
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 3
+Yds/Rec: 3.0
+RecTd: 0
+Rec/Game: 0.1
+Yds/Game: 0.4
+Rec%: 100.0%
+Fmb: 0
+No.: 86
+Player: Dalton Schultz
+Age: 22
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 1
+RecYds: 12
+Yds/Rec: 12.0
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 6.0
+Rec%: 33.3%
+Fmb: 0
+
+den Team Stats Data 
+No.: 4
+Player: Case Keenum
+Age: 30
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 161
+Att: 254
+Cmp%: 63.4
+Yds: 1848
+Td: 8
+Td%: 3.1
+Int: 9
+Int%: 3.5
+Y/A: 7.3
+Y/C: 11.5
+Y/G: 264.0
+QBR: 40.7
+Sacked: 17
+No.: 10
+Player: Emmanuel Sanders
+Age: 31
+Pos: WR
+Games: 7
+Started: 7
+Cmp: 1
+Att: 1
+Cmp%: 100.0
+Yds: 28
+Td: 1
+Td%: 100.0
+Int: 0
+Int%: 0.0
+Y/A: 28.0
+Y/C: 28.0
+Y/G: 4.0
+QBR: 100.0
+Sacked: 0
+No.: 30
+Player: Phillip Lindsay
+Age: 24
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 75
+RushYds: 436
+RushTd: 2
+RushYds/Att: 5.8
+RushYds/Game: 62.3
+Att/Game: 10.7
+RecTargets: 20
+RecCatch: 15
+RecYds: 119
+Yds/Rec: 7.9
+RecTd: 1
+Rec/Game: 2.1
+Yds/Game: 17.0
+Rec%: 75.0%
+Fmb: 0
+No.: 28
+Player: Royce Freeman
+Age: 22
+Pos: RB
+Games: 7
+Started: 7
+RushAtt: 71
+RushYds: 309
+RushTd: 4
+RushYds/Att: 4.4
+RushYds/Game: 44.1
+Att/Game: 10.1
+RecTargets: 6
+RecCatch: 4
+RecYds: 21
+Yds/Rec: 5.3
+RecTd: 0
+Rec/Game: 0.6
+Yds/Game: 3.0
+Rec%: 66.7%
+Fmb: 0
+No.: 23
+Player: Devontae Booker
+Age: 26
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 13
+RushYds: 51
+RushTd: 0
+RushYds/Att: 3.9
+RushYds/Game: 7.3
+Att/Game: 1.9
+RecTargets: 21
+RecCatch: 16
+RecYds: 126
+Yds/Rec: 7.9
+RecTd: 0
+Rec/Game: 2.3
+Yds/Game: 18.0
+Rec%: 76.2%
+Fmb: 0
+No.: 4
+Player: Case Keenum
+Age: 30
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 8
+RushYds: 26
+RushTd: 1
+RushYds/Att: 3.3
+RushYds/Game: 3.7
+Att/Game: 1.1
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 4
+No.: 10
+Player: Emmanuel Sanders
+Age: 31
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 2
+RushYds: 53
+RushTd: 1
+RushYds/Att: 26.5
+RushYds/Game: 7.6
+Att/Game: 0.3
+RecTargets: 61
+RecCatch: 46
+RecYds: 603
+Yds/Rec: 13.1
+RecTd: 3
+Rec/Game: 6.6
+Yds/Game: 86.1
+Rec%: 75.4%
+Fmb: 0
+No.: 32
+Player: Andy Janovich
+Age: 25
+Pos: fb
+Games: 7
+Started: 3
+RushAtt: 1
+RushYds: 2
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 0.3
+Att/Game: 0.1
+RecTargets: 2
+RecCatch: 2
+RecYds: 43
+Yds/Rec: 21.5
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 6.1
+Rec%: 100.0%
+Fmb: 0
+No.: 6
+Player: Chad Kelly
+Age: 24
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 1
+RushYds: -1
+RushTd: 0
+RushYds/Att: -1.0
+RushYds/Game: -1.0
+Att/Game: 1.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 88
+Player: Demaryius Thomas
+Age: 31
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 49
+RecCatch: 33
+RecYds: 372
+Yds/Rec: 11.3
+RecTd: 3
+Rec/Game: 4.7
+Yds/Game: 53.1
+Rec%: 67.3%
+Fmb: 0
+No.: 82
+Player: Jeff Heuerman
+Age: 26
+Pos: TE
+Games: 7
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 24
+RecCatch: 14
+RecYds: 130
+Yds/Rec: 9.3
+RecTd: 0
+Rec/Game: 2.0
+Yds/Game: 18.6
+Rec%: 58.3%
+Fmb: 0
+No.: 14
+Player: Courtland Sutton
+Age: 23
+Pos: wr
+Games: 7
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 33
+RecCatch: 14
+RecYds: 246
+Yds/Rec: 17.6
+RecTd: 2
+Rec/Game: 2.0
+Yds/Game: 35.1
+Rec%: 42.4%
+Fmb: 0
+No.: 80
+Player: Jake Butt
+Age: 23
+Pos: te
+Games: 3
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 13
+RecCatch: 8
+RecYds: 85
+Yds/Rec: 10.6
+RecTd: 0
+Rec/Game: 2.7
+Yds/Game: 28.3
+Rec%: 61.5%
+Fmb: 0
+No.: 83
+Player: Matt LaCosse
+Age: 26
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 9
+RecCatch: 5
+RecYds: 55
+Yds/Rec: 11.0
+RecTd: 0
+Rec/Game: 0.7
+Yds/Game: 7.9
+Rec%: 55.6%
+Fmb: 0
+No.: 17
+Player: DaeSean Hamilton
+Age: 23
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 3
+RecYds: 44
+Yds/Rec: 14.7
+RecTd: 0
+Rec/Game: 0.4
+Yds/Game: 6.3
+Rec%: 100.0%
+Fmb: 0
+No.: 81
+Player: Tim Patrick
+Age: 25
+Pos: wr
+Games: 7
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 5
+RecCatch: 2
+RecYds: 32
+Yds/Rec: 16.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 4.6
+Rec%: 40.0%
+Fmb: 0
+
+det Team Stats Data 
+No.: 9
+Player: Matthew Stafford
+Age: 30
+Pos: QB
+Games: 6
+Started: 6
+Cmp: 144
+Att: 213
+Cmp%: 67.6
+Yds: 1602
+Td: 12
+Td%: 5.6
+Int: 5
+Int%: 2.3
+Y/A: 7.5
+Y/C: 11.1
+Y/G: 267.0
+QBR: 57.7
+Sacked: 10
+No.: 8
+Player: Matt Cassel
+Age: 36
+Pos: 
+Games: 1
+Started: 0
+Cmp: 2
+Att: 6
+Cmp%: 33.3
+Yds: 14
+Td: 0
+Td%: 0.0
+Int: 1
+Int%: 16.7
+Y/A: 2.3
+Y/C: 7.0
+Y/G: 14.0
+QBR: 0.8
+Sacked: 0
+No.: 33
+Player: Kerryon Johnson
+Age: 21
+Pos: RB
+Games: 6
+Started: 3
+RushAtt: 69
+RushYds: 444
+RushTd: 1
+RushYds/Att: 6.4
+RushYds/Game: 74.0
+Att/Game: 11.5
+RecTargets: 18
+RecCatch: 15
+RecYds: 89
+Yds/Rec: 5.9
+RecTd: 0
+Rec/Game: 2.5
+Yds/Game: 14.8
+Rec%: 83.3%
+Fmb: 0
+No.: 29
+Player: LeGarrette Blount
+Age: 32
+Pos: RB
+Games: 6
+Started: 3
+RushAtt: 57
+RushYds: 167
+RushTd: 3
+RushYds/Att: 2.9
+RushYds/Game: 27.8
+Att/Game: 9.5
+RecTargets: 3
+RecCatch: 3
+RecYds: 14
+Yds/Rec: 4.7
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 2.3
+Rec%: 100.0%
+Fmb: 1
+No.: 9
+Player: Matthew Stafford
+Age: 30
+Pos: QB
+Games: 6
+Started: 6
+RushAtt: 10
+RushYds: 37
+RushTd: 0
+RushYds/Att: 3.7
+RushYds/Game: 6.2
+Att/Game: 1.7
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 2
+No.: 25
+Player: Theo Riddick
+Age: 27
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 8
+RushYds: 30
+RushTd: 0
+RushYds/Att: 3.8
+RushYds/Game: 6.0
+Att/Game: 1.6
+RecTargets: 30
+RecCatch: 23
+RecYds: 138
+Yds/Rec: 6.0
+RecTd: 0
+Rec/Game: 4.6
+Yds/Game: 27.6
+Rec%: 76.7%
+Fmb: 0
+No.: 15
+Player: Golden Tate
+Age: 30
+Pos: WR
+Games: 6
+Started: 3
+RushAtt: 2
+RushYds: 39
+RushTd: 0
+RushYds/Att: 19.5
+RushYds/Game: 6.5
+Att/Game: 0.3
+RecTargets: 57
+RecCatch: 37
+RecYds: 467
+Yds/Rec: 12.6
+RecTd: 3
+Rec/Game: 6.2
+Yds/Game: 77.8
+Rec%: 64.9%
+Fmb: 1
+No.: 21
+Player: Ameer Abdullah
+Age: 25
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 1
+RushYds: 1
+RushTd: 0
+RushYds/Att: 1.0
+RushYds/Game: 0.5
+Att/Game: 0.5
+RecTargets: 1
+RecCatch: 1
+RecYds: 12
+Yds/Rec: 12.0
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 6.0
+Rec%: 100.0%
+Fmb: 0
+No.: 39
+Player: Jamal Agnew
+Age: 23
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 1
+RushYds: 17
+RushTd: 0
+RushYds/Att: 17.0
+RushYds/Game: 3.4
+Att/Game: 0.2
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 8
+Player: Matt Cassel
+Age: 36
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 1
+RushYds: -1
+RushTd: 0
+RushYds/Att: -1.0
+RushYds/Game: -1.0
+Att/Game: 1.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 19
+Player: Kenny Golladay
+Age: 25
+Pos: WR
+Games: 6
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 43
+RecCatch: 29
+RecYds: 465
+Yds/Rec: 16.0
+RecTd: 3
+Rec/Game: 4.8
+Yds/Game: 77.5
+Rec%: 67.4%
+Fmb: 0
+No.: 11
+Player: Marvin Jones
+Age: 28
+Pos: WR
+Games: 6
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 37
+RecCatch: 19
+RecYds: 270
+Yds/Rec: 14.2
+RecTd: 3
+Rec/Game: 3.2
+Yds/Game: 45.0
+Rec%: 51.4%
+Fmb: 0
+No.: 82
+Player: Luke Willson
+Age: 28
+Pos: TE
+Games: 6
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 9
+RecCatch: 6
+RecYds: 37
+Yds/Rec: 6.2
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 6.2
+Rec%: 66.7%
+Fmb: 0
+No.: 80
+Player: Michael Roberts
+Age: 24
+Pos: te
+Games: 3
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 4
+RecYds: 63
+Yds/Rec: 15.8
+RecTd: 3
+Rec/Game: 1.3
+Yds/Game: 21.0
+Rec%: 100.0%
+Fmb: 0
+No.: 13
+Player: T.J. Jones
+Age: 26
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 3
+RecYds: 36
+Yds/Rec: 12.0
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 6.0
+Rec%: 50.0%
+Fmb: 0
+No.: 87
+Player: Levine Toilolo
+Age: 27
+Pos: te
+Games: 6
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 3
+RecYds: 19
+Yds/Rec: 6.3
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 3.2
+Rec%: 100.0%
+Fmb: 0
+No.: 84
+Player: Hakeem Valles
+Age: 26
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 2
+RecYds: 11
+Yds/Rec: 5.5
+RecTd: 0
+Rec/Game: 0.7
+Yds/Game: 3.7
+Rec%: 66.7%
+Fmb: 0
+No.: 43
+Player: Nick Bellore
+Age: 29
+Pos: fb
+Games: 6
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: -5
+Yds/Rec: -5.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: -0.8
+Rec%: 100.0%
+Fmb: 0
+
+gnb Team Stats Data 
+No.: 12
+Player: Aaron Rodgers
+Age: 35
+Pos: QB
+Games: 6
+Started: 6
+Cmp: 156
+Att: 254
+Cmp%: 61.4
+Yds: 1997
+Td: 12
+Td%: 4.7
+Int: 1
+Int%: 0.4
+Y/A: 7.9
+Y/C: 12.8
+Y/G: 332.8
+QBR: 52.9
+Sacked: 19
+No.: 9
+Player: DeShone Kizer
+Age: 22
+Pos: 
+Games: 1
+Started: 0
+Cmp: 4
+Att: 7
+Cmp%: 57.1
+Yds: 55
+Td: 0
+Td%: 0.0
+Int: 1
+Int%: 14.3
+Y/A: 7.9
+Y/C: 13.8
+Y/G: 55.0
+QBR: 4.0
+Sacked: 2
+No.: 6
+Player: JK Scott
+Age: 22
+Pos: P
+Games: 6
+Started: 0
+Cmp: 0
+Att: 1
+Cmp%: 0.0
+Yds: 0
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 0.0
+Y/C: 
+Y/G: 0.0
+QBR: 
+Sacked: 0
+No.: 30
+Player: Jamaal Williams
+Age: 23
+Pos: RB
+Games: 6
+Started: 5
+RushAtt: 59
+RushYds: 224
+RushTd: 0
+RushYds/Att: 3.8
+RushYds/Game: 37.3
+Att/Game: 9.8
+RecTargets: 16
+RecCatch: 8
+RecYds: 57
+Yds/Rec: 7.1
+RecTd: 0
+Rec/Game: 1.3
+Yds/Game: 9.5
+Rec%: 50.0%
+Fmb: 0
+No.: 33
+Player: Aaron Jones
+Age: 24
+Pos: rb
+Games: 4
+Started: 1
+RushAtt: 32
+RushYds: 188
+RushTd: 1
+RushYds/Att: 5.9
+RushYds/Game: 47.0
+Att/Game: 8.0
+RecTargets: 6
+RecCatch: 4
+RecYds: 41
+Yds/Rec: 10.3
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 10.3
+Rec%: 66.7%
+Fmb: 0
+No.: 88
+Player: Ty Montgomery
+Age: 25
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 24
+RushYds: 99
+RushTd: 1
+RushYds/Att: 4.1
+RushYds/Game: 16.5
+Att/Game: 4.0
+RecTargets: 21
+RecCatch: 14
+RecYds: 168
+Yds/Rec: 12.0
+RecTd: 0
+Rec/Game: 2.3
+Yds/Game: 28.0
+Rec%: 66.7%
+Fmb: 1
+No.: 12
+Player: Aaron Rodgers
+Age: 35
+Pos: QB
+Games: 6
+Started: 6
+RushAtt: 17
+RushYds: 111
+RushTd: 0
+RushYds/Att: 6.5
+RushYds/Game: 18.5
+Att/Game: 2.8
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 5
+No.: 17
+Player: Davante Adams
+Age: 26
+Pos: WR
+Games: 6
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 71
+RecCatch: 47
+RecYds: 557
+Yds/Rec: 11.9
+RecTd: 6
+Rec/Game: 7.8
+Yds/Game: 92.8
+Rec%: 66.2%
+Fmb: 0
+No.: 80
+Player: Jimmy Graham
+Age: 32
+Pos: TE
+Games: 6
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 45
+RecCatch: 27
+RecYds: 349
+Yds/Rec: 12.9
+RecTd: 1
+Rec/Game: 4.5
+Yds/Game: 58.2
+Rec%: 60.0%
+Fmb: 0
+No.: 81
+Player: Geronimo Allison
+Age: 24
+Pos: WR
+Games: 4
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 29
+RecCatch: 19
+RecYds: 289
+Yds/Rec: 15.2
+RecTd: 2
+Rec/Game: 4.8
+Yds/Game: 72.3
+Rec%: 65.5%
+Fmb: 1
+No.: 18
+Player: Randall Cobb
+Age: 28
+Pos: WR
+Games: 3
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 27
+RecCatch: 17
+RecYds: 194
+Yds/Rec: 11.4
+RecTd: 1
+Rec/Game: 5.7
+Yds/Game: 64.7
+Rec%: 63.0%
+Fmb: 2
+No.: 83
+Player: Marquez Valdes-Scantling
+Age: 24
+Pos: WR
+Games: 6
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 21
+RecCatch: 12
+RecYds: 212
+Yds/Rec: 17.7
+RecTd: 1
+Rec/Game: 2.0
+Yds/Game: 35.3
+Rec%: 57.1%
+Fmb: 0
+No.: 84
+Player: Lance Kendricks
+Age: 30
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 11
+RecCatch: 7
+RecYds: 67
+Yds/Rec: 9.6
+RecTd: 1
+Rec/Game: 1.2
+Yds/Game: 11.2
+Rec%: 63.6%
+Fmb: 0
+No.: 19
+Player: Equanimeous St. Brown
+Age: 22
+Pos: wr
+Games: 3
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 4
+RecYds: 108
+Yds/Rec: 27.0
+RecTd: 0
+Rec/Game: 1.3
+Yds/Game: 36.0
+Rec%: 66.7%
+Fmb: 0
+No.: 82
+Player: J'Mon Moore
+Age: 23
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 10
+Yds/Rec: 10.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 3.3
+Rec%: 100.0%
+Fmb: 0
+
+htx Team Stats Data 
+No.: 4
+Player: Deshaun Watson
+Age: 23
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 152
+Att: 241
+Cmp%: 63.1
+Yds: 1937
+Td: 10
+Td%: 4.1
+Int: 7
+Int%: 2.9
+Y/A: 8.0
+Y/C: 12.7
+Y/G: 276.7
+QBR: 54.1
+Sacked: 26
+No.: 10
+Player: DeAndre Hopkins
+Age: 26
+Pos: WR
+Games: 7
+Started: 7
+Cmp: 0
+Att: 1
+Cmp%: 0.0
+Yds: 0
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 0.0
+Y/C: 
+Y/G: 0.0
+QBR: 3.2
+Sacked: 0
+No.: 26
+Player: Lamar Miller
+Age: 27
+Pos: RB
+Games: 6
+Started: 6
+RushAtt: 95
+RushYds: 371
+RushTd: 1
+RushYds/Att: 3.9
+RushYds/Game: 61.8
+Att/Game: 15.8
+RecTargets: 16
+RecCatch: 11
+RecYds: 78
+Yds/Rec: 7.1
+RecTd: 1
+Rec/Game: 1.8
+Yds/Game: 13.0
+Rec%: 68.8%
+Fmb: 1
+No.: 28
+Player: Alfred Blue
+Age: 27
+Pos: rb
+Games: 7
+Started: 1
+RushAtt: 64
+RushYds: 216
+RushTd: 1
+RushYds/Att: 3.4
+RushYds/Game: 30.9
+Att/Game: 9.1
+RecTargets: 15
+RecCatch: 11
+RecYds: 94
+Yds/Rec: 8.5
+RecTd: 0
+Rec/Game: 1.6
+Yds/Game: 13.4
+Rec%: 73.3%
+Fmb: 0
+No.: 4
+Player: Deshaun Watson
+Age: 23
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 43
+RushYds: 216
+RushTd: 1
+RushYds/Att: 5.0
+RushYds/Game: 30.9
+Att/Game: 6.1
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 7
+No.: 16
+Player: Keke Coutee
+Age: 21
+Pos: wr
+Games: 4
+Started: 1
+RushAtt: 3
+RushYds: 0
+RushTd: 0
+RushYds/Att: 0.0
+RushYds/Game: 0.0
+Att/Game: 0.8
+RecTargets: 30
+RecCatch: 21
+RecYds: 196
+Yds/Rec: 9.3
+RecTd: 1
+Rec/Game: 5.3
+Yds/Game: 49.0
+Rec%: 70.0%
+Fmb: 0
+No.: 10
+Player: DeAndre Hopkins
+Age: 26
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 1
+RushYds: -7
+RushTd: 0
+RushYds/Att: -7.0
+RushYds/Game: -1.0
+Att/Game: 0.1
+RecTargets: 71
+RecCatch: 47
+RecYds: 707
+Yds/Rec: 15.0
+RecTd: 4
+Rec/Game: 6.7
+Yds/Game: 101.0
+Rec%: 66.2%
+Fmb: 1
+No.: 15
+Player: Will Fuller
+Age: 24
+Pos: WR
+Games: 6
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 39
+RecCatch: 27
+RecYds: 379
+Yds/Rec: 14.0
+RecTd: 3
+Rec/Game: 4.5
+Yds/Game: 63.2
+Rec%: 69.2%
+Fmb: 0
+No.: 84
+Player: Ryan Griffin
+Age: 28
+Pos: TE
+Games: 6
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 25
+RecCatch: 10
+RecYds: 140
+Yds/Rec: 14.0
+RecTd: 0
+Rec/Game: 1.7
+Yds/Game: 23.3
+Rec%: 40.0%
+Fmb: 0
+No.: 88
+Player: Jordan Akins
+Age: 26
+Pos: te
+Games: 7
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 11
+RecCatch: 9
+RecYds: 89
+Yds/Rec: 9.9
+RecTd: 0
+Rec/Game: 1.3
+Yds/Game: 12.7
+Rec%: 81.8%
+Fmb: 0
+No.: 12
+Player: Bruce Ellington
+Age: 27
+Pos: wr
+Games: 3
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 12
+RecCatch: 8
+RecYds: 92
+Yds/Rec: 11.5
+RecTd: 1
+Rec/Game: 2.7
+Yds/Game: 30.7
+Rec%: 66.7%
+Fmb: 0
+No.: 83
+Player: Jordan Thomas
+Age: 22
+Pos: TE
+Games: 7
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 9
+RecCatch: 4
+RecYds: 91
+Yds/Rec: 22.8
+RecTd: 0
+Rec/Game: 0.6
+Yds/Game: 13.0
+Rec%: 44.4%
+Fmb: 0
+No.: 21
+Player: Tyler Ervin
+Age: 25
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 2
+RecYds: 31
+Yds/Rec: 15.5
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 4.4
+Rec%: 66.7%
+Fmb: 1
+No.: 18
+Player: Sammie Coates
+Age: 25
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 2
+RecCatch: 1
+RecYds: 12
+Yds/Rec: 12.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 2.4
+Rec%: 50.0%
+Fmb: 0
+No.: 17
+Player: Vyncint Smith
+Age: 22
+Pos: wr
+Games: 2
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 1
+RecYds: 28
+Yds/Rec: 28.0
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 14.0
+Rec%: 25.0%
+Fmb: 0
+
+clt Team Stats Data 
+No.: 12
+Player: Andrew Luck
+Age: 29
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 203
+Att: 311
+Cmp%: 65.3
+Yds: 1948
+Td: 20
+Td%: 6.4
+Int: 8
+Int%: 2.6
+Y/A: 6.3
+Y/C: 9.6
+Y/G: 278.3
+QBR: 60.3
+Sacked: 10
+No.: 7
+Player: Jacoby Brissett
+Age: 25
+Pos: 
+Games: 2
+Started: 0
+Cmp: 0
+Att: 1
+Cmp%: 0.0
+Yds: 0
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 0.0
+Y/C: 
+Y/G: 0.0
+QBR: 18.9
+Sacked: 0
+No.: 20
+Player: Jordan Wilkins
+Age: 24
+Pos: rb
+Games: 7
+Started: 3
+RushAtt: 50
+RushYds: 221
+RushTd: 0
+RushYds/Att: 4.4
+RushYds/Game: 31.6
+Att/Game: 7.1
+RecTargets: 11
+RecCatch: 10
+RecYds: 42
+Yds/Rec: 4.2
+RecTd: 0
+Rec/Game: 1.4
+Yds/Game: 6.0
+Rec%: 90.9%
+Fmb: 1
+No.: 21
+Player: Nyheim Hines
+Age: 22
+Pos: rb
+Games: 7
+Started: 2
+RushAtt: 41
+RushYds: 160
+RushTd: 1
+RushYds/Att: 3.9
+RushYds/Game: 22.9
+Att/Game: 5.9
+RecTargets: 40
+RecCatch: 32
+RecYds: 180
+Yds/Rec: 5.6
+RecTd: 2
+Rec/Game: 4.6
+Yds/Game: 25.7
+Rec%: 80.0%
+Fmb: 0
+No.: 25
+Player: Marlon Mack
+Age: 22
+Pos: rb
+Games: 3
+Started: 3
+RushAtt: 41
+RushYds: 249
+RushTd: 1
+RushYds/Att: 6.1
+RushYds/Game: 83.0
+Att/Game: 13.7
+RecTargets: 7
+RecCatch: 4
+RecYds: 39
+Yds/Rec: 9.8
+RecTd: 1
+Rec/Game: 1.3
+Yds/Game: 13.0
+Rec%: 57.1%
+Fmb: 0
+No.: 12
+Player: Andrew Luck
+Age: 29
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 14
+RushYds: 65
+RushTd: 0
+RushYds/Att: 4.6
+RushYds/Game: 9.3
+Att/Game: 2.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 3
+No.: 33
+Player: Robert Turbin
+Age: 29
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 4
+RushYds: 10
+RushTd: 0
+RushYds/Att: 2.5
+RushYds/Game: 5.0
+Att/Game: 2.0
+RecTargets: 2
+RecCatch: 1
+RecYds: 3
+Yds/Rec: 3.0
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 1.5
+Rec%: 50.0%
+Fmb: 1
+No.: 7
+Player: Jacoby Brissett
+Age: 25
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 4
+RushYds: -4
+RushTd: 0
+RushYds/Att: -1.0
+RushYds/Game: -2.0
+Att/Game: 2.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 34
+Player: Jeremy McNichols
+Age: 23
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 2
+RushYds: 4
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 4.0
+Att/Game: 2.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 38
+Player: Christine Michael
+Age: 28
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 2
+RushYds: 9
+RushTd: 0
+RushYds/Att: 4.5
+RushYds/Game: 9.0
+Att/Game: 2.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 85
+Player: Eric Ebron
+Age: 25
+Pos: TE
+Games: 7
+Started: 5
+RushAtt: 1
+RushYds: -1
+RushTd: 0
+RushYds/Att: -1.0
+RushYds/Game: -0.1
+Att/Game: 0.1
+RecTargets: 59
+RecCatch: 33
+RecYds: 357
+Yds/Rec: 10.8
+RecTd: 6
+Rec/Game: 4.7
+Yds/Game: 51.0
+Rec%: 55.9%
+Fmb: 0
+No.: 14
+Player: Zach Pascal
+Age: 24
+Pos: wr
+Games: 7
+Started: 2
+RushAtt: 1
+RushYds: 8
+RushTd: 0
+RushYds/Att: 8.0
+RushYds/Game: 1.1
+Att/Game: 0.1
+RecTargets: 27
+RecCatch: 14
+RecYds: 124
+Yds/Rec: 8.9
+RecTd: 1
+Rec/Game: 2.0
+Yds/Game: 17.7
+Rec%: 51.9%
+Fmb: 0
+No.: 16
+Player: Marcus Johnson
+Age: 24
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 1
+RushYds: -2
+RushTd: 0
+RushYds/Att: -2.0
+RushYds/Game: -0.4
+Att/Game: 0.2
+RecTargets: 8
+RecCatch: 6
+RecYds: 102
+Yds/Rec: 17.0
+RecTd: 1
+Rec/Game: 1.2
+Yds/Game: 20.4
+Rec%: 75.0%
+Fmb: 0
+No.: 80
+Player: Chester Rogers
+Age: 24
+Pos: wr
+Games: 7
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 46
+RecCatch: 32
+RecYds: 295
+Yds/Rec: 9.2
+RecTd: 1
+Rec/Game: 4.6
+Yds/Game: 42.1
+Rec%: 69.6%
+Fmb: 0
+No.: 11
+Player: Ryan Grant
+Age: 28
+Pos: WR
+Games: 6
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 36
+RecCatch: 26
+RecYds: 270
+Yds/Rec: 10.4
+RecTd: 1
+Rec/Game: 4.3
+Yds/Game: 45.0
+Rec%: 72.2%
+Fmb: 0
+No.: 13
+Player: T.Y. Hilton
+Age: 29
+Pos: WR
+Games: 5
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 42
+RecCatch: 25
+RecYds: 319
+Yds/Rec: 12.8
+RecTd: 4
+Rec/Game: 5.0
+Yds/Game: 63.8
+Rec%: 59.5%
+Fmb: 0
+No.: 84
+Player: Jack Doyle
+Age: 28
+Pos: te
+Games: 2
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 15
+RecCatch: 9
+RecYds: 80
+Yds/Rec: 8.9
+RecTd: 0
+Rec/Game: 4.5
+Yds/Game: 40.0
+Rec%: 60.0%
+Fmb: 1
+No.: 86
+Player: Erik Swoope
+Age: 26
+Pos: te
+Games: 5
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 8
+RecCatch: 7
+RecYds: 83
+Yds/Rec: 11.9
+RecTd: 3
+Rec/Game: 1.4
+Yds/Game: 16.6
+Rec%: 87.5%
+Fmb: 0
+No.: 48
+Player: Mo Alie-Cox
+Age: 25
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 5
+RecCatch: 3
+RecYds: 58
+Yds/Rec: 19.3
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 19.3
+Rec%: 60.0%
+Fmb: 0
+No.: 78
+Player: Ryan Kelly
+Age: 25
+Pos: C
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: -4
+Yds/Rec: -4.0
+RecTd: 0
+Rec/Game: 0.1
+Yds/Game: -0.6
+Rec%: 100.0%
+Fmb: 1
+
+jax Team Stats Data 
+No.: 5
+Player: Blake Bortles
+Age: 26
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 151
+Att: 249
+Cmp%: 60.6
+Yds: 1735
+Td: 9
+Td%: 3.6
+Int: 8
+Int%: 3.2
+Y/A: 7.0
+Y/C: 11.5
+Y/G: 247.9
+QBR: 46.1
+Sacked: 14
+No.: 6
+Player: Cody Kessler
+Age: 25
+Pos: 
+Games: 1
+Started: 0
+Cmp: 21
+Att: 30
+Cmp%: 70.0
+Yds: 156
+Td: 1
+Td%: 3.3
+Int: 1
+Int%: 3.3
+Y/A: 5.2
+Y/C: 7.4
+Y/G: 156.0
+QBR: 42.4
+Sacked: 4
+No.: 24
+Player: T.J. Yeldon
+Age: 25
+Pos: RB
+Games: 7
+Started: 4
+RushAtt: 79
+RushYds: 327
+RushTd: 1
+RushYds/Att: 4.1
+RushYds/Game: 46.7
+Att/Game: 11.3
+RecTargets: 44
+RecCatch: 30
+RecYds: 263
+Yds/Rec: 8.8
+RecTd: 4
+Rec/Game: 4.3
+Yds/Game: 37.6
+Rec%: 68.2%
+Fmb: 1
+No.: 5
+Player: Blake Bortles
+Age: 26
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 32
+RushYds: 218
+RushTd: 1
+RushYds/Att: 6.8
+RushYds/Game: 31.1
+Att/Game: 4.6
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 5
+No.: 27
+Player: Leonard Fournette
+Age: 23
+Pos: rb
+Games: 2
+Started: 2
+RushAtt: 20
+RushYds: 71
+RushTd: 0
+RushYds/Att: 3.6
+RushYds/Game: 35.5
+Att/Game: 10.0
+RecTargets: 4
+RecCatch: 4
+RecYds: 19
+Yds/Rec: 4.8
+RecTd: 0
+Rec/Game: 2.0
+Yds/Game: 9.5
+Rec%: 100.0%
+Fmb: 0
+No.: 30
+Player: Corey Grant
+Age: 27
+Pos: rb
+Games: 5
+Started: 1
+RushAtt: 13
+RushYds: 40
+RushTd: 0
+RushYds/Att: 3.1
+RushYds/Game: 8.0
+Att/Game: 2.6
+RecTargets: 12
+RecCatch: 9
+RecYds: 67
+Yds/Rec: 7.4
+RecTd: 0
+Rec/Game: 1.8
+Yds/Game: 13.4
+Rec%: 75.0%
+Fmb: 0
+No.: 31
+Player: Jamaal Charles
+Age: 32
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 6
+RushYds: 7
+RushTd: 0
+RushYds/Att: 1.2
+RushYds/Game: 3.5
+Att/Game: 3.0
+RecTargets: 3
+RecCatch: 2
+RecYds: 7
+Yds/Rec: 3.5
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 3.5
+Rec%: 66.7%
+Fmb: 0
+No.: 34
+Player: Brandon Wilds
+Age: 25
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 6
+RushYds: 15
+RushTd: 0
+RushYds/Att: 2.5
+RushYds/Game: 5.0
+Att/Game: 2.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 12
+Player: Dede Westbrook
+Age: 25
+Pos: wr
+Games: 7
+Started: 2
+RushAtt: 2
+RushYds: 5
+RushTd: 0
+RushYds/Att: 2.5
+RushYds/Game: 0.7
+Att/Game: 0.3
+RecTargets: 42
+RecCatch: 31
+RecYds: 404
+Yds/Rec: 13.0
+RecTd: 2
+Rec/Game: 4.4
+Yds/Game: 57.7
+Rec%: 73.8%
+Fmb: 2
+No.: 6
+Player: Cody Kessler
+Age: 25
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 2
+RushYds: 8
+RushTd: 0
+RushYds/Att: 4.0
+RushYds/Game: 8.0
+Att/Game: 2.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 1
+No.: 81
+Player: Niles Paul
+Age: 29
+Pos: te
+Games: 6
+Started: 1
+RushAtt: 1
+RushYds: -3
+RushTd: 0
+RushYds/Att: -3.0
+RushYds/Game: -0.5
+Att/Game: 0.2
+RecTargets: 13
+RecCatch: 10
+RecYds: 98
+Yds/Rec: 9.8
+RecTd: 0
+Rec/Game: 1.7
+Yds/Game: 16.3
+Rec%: 76.9%
+Fmb: 0
+No.: 33
+Player: David Williams
+Age: 24
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 1
+RushYds: 2
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 2.0
+Att/Game: 1.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 84
+Player: Keelan Cole
+Age: 25
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 46
+RecCatch: 27
+RecYds: 357
+Yds/Rec: 13.2
+RecTd: 1
+Rec/Game: 3.9
+Yds/Game: 51.0
+Rec%: 58.7%
+Fmb: 1
+No.: 10
+Player: Donte Moncrief
+Age: 25
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 50
+RecCatch: 25
+RecYds: 325
+Yds/Rec: 13.0
+RecTd: 2
+Rec/Game: 3.6
+Yds/Game: 46.4
+Rec%: 50.0%
+Fmb: 1
+No.: 88
+Player: Austin Seferian-Jenkins
+Age: 26
+Pos: TE
+Games: 5
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 20
+RecCatch: 11
+RecYds: 90
+Yds/Rec: 8.2
+RecTd: 1
+Rec/Game: 2.2
+Yds/Game: 18.0
+Rec%: 55.0%
+Fmb: 0
+No.: 80
+Player: James O'Shaughnessy
+Age: 26
+Pos: te
+Games: 6
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 17
+RecCatch: 9
+RecYds: 101
+Yds/Rec: 11.2
+RecTd: 0
+Rec/Game: 1.5
+Yds/Game: 16.8
+Rec%: 52.9%
+Fmb: 0
+No.: 17
+Player: DJ Chark
+Age: 22
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 18
+RecCatch: 8
+RecYds: 118
+Yds/Rec: 14.8
+RecTd: 0
+Rec/Game: 1.1
+Yds/Game: 16.9
+Rec%: 44.4%
+Fmb: 1
+No.: 86
+Player: David Grinnage
+Age: 24
+Pos: te
+Games: 2
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 3
+RecYds: 24
+Yds/Rec: 8.0
+RecTd: 0
+Rec/Game: 1.5
+Yds/Game: 12.0
+Rec%: 100.0%
+Fmb: 0
+No.: 40
+Player: Tommy Bohanon
+Age: 28
+Pos: fb
+Games: 7
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 2
+RecYds: 10
+Yds/Rec: 5.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 1.4
+Rec%: 50.0%
+Fmb: 0
+No.: 13
+Player: Rashad Greene
+Age: 26
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 8
+Yds/Rec: 8.0
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 8.0
+Rec%: 100.0%
+Fmb: 0
+
+kan Team Stats Data 
+No.: 15
+Player: Patrick Mahomes
+Age: 23
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 163
+Att: 251
+Cmp%: 64.9
+Yds: 2223
+Td: 22
+Td%: 8.8
+Int: 5
+Int%: 2.0
+Y/A: 8.9
+Y/C: 13.6
+Y/G: 317.6
+QBR: 85.9
+Sacked: 8
+No.: 27
+Player: Kareem Hunt
+Age: 23
+Pos: RB
+Games: 7
+Started: 7
+RushAtt: 118
+RushYds: 542
+RushTd: 5
+RushYds/Att: 4.6
+RushYds/Game: 77.4
+Att/Game: 16.9
+RecTargets: 21
+RecCatch: 15
+RecYds: 226
+Yds/Rec: 15.1
+RecTd: 4
+Rec/Game: 2.1
+Yds/Game: 32.3
+Rec%: 71.4%
+Fmb: 0
+No.: 15
+Player: Patrick Mahomes
+Age: 23
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 28
+RushYds: 120
+RushTd: 2
+RushYds/Att: 4.3
+RushYds/Game: 17.1
+Att/Game: 4.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 5
+No.: 32
+Player: Spencer Ware
+Age: 27
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 18
+RushYds: 106
+RushTd: 0
+RushYds/Att: 5.9
+RushYds/Game: 15.1
+Att/Game: 2.6
+RecTargets: 13
+RecCatch: 9
+RecYds: 89
+Yds/Rec: 9.9
+RecTd: 0
+Rec/Game: 1.3
+Yds/Game: 12.7
+Rec%: 69.2%
+Fmb: 0
+No.: 10
+Player: Tyreek Hill
+Age: 24
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 10
+RushYds: 45
+RushTd: 0
+RushYds/Att: 4.5
+RushYds/Game: 6.4
+Att/Game: 1.4
+RecTargets: 61
+RecCatch: 41
+RecYds: 635
+Yds/Rec: 15.5
+RecTd: 7
+Rec/Game: 5.9
+Yds/Game: 90.7
+Rec%: 67.2%
+Fmb: 0
+No.: 14
+Player: Sammy Watkins
+Age: 25
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 4
+RushYds: 50
+RushTd: 0
+RushYds/Att: 12.5
+RushYds/Game: 7.1
+Att/Game: 0.6
+RecTargets: 40
+RecCatch: 26
+RecYds: 346
+Yds/Rec: 13.3
+RecTd: 1
+Rec/Game: 3.7
+Yds/Game: 49.4
+Rec%: 65.0%
+Fmb: 1
+No.: 26
+Player: Damien Williams
+Age: 26
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 3
+RushYds: 1
+RushTd: 0
+RushYds/Att: 0.3
+RushYds/Game: 0.1
+Att/Game: 0.4
+RecTargets: 3
+RecCatch: 3
+RecYds: 18
+Yds/Rec: 6.0
+RecTd: 0
+Rec/Game: 0.4
+Yds/Game: 2.6
+Rec%: 100.0%
+Fmb: 0
+No.: 13
+Player: De'Anthony Thomas
+Age: 25
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 1
+RushYds: 6
+RushTd: 0
+RushYds/Att: 6.0
+RushYds/Game: 1.2
+Att/Game: 0.2
+RecTargets: 5
+RecCatch: 3
+RecYds: 29
+Yds/Rec: 9.7
+RecTd: 1
+Rec/Game: 0.6
+Yds/Game: 5.8
+Rec%: 60.0%
+Fmb: 1
+No.: 87
+Player: Travis Kelce
+Age: 29
+Pos: TE
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 60
+RecCatch: 38
+RecYds: 563
+Yds/Rec: 14.8
+RecTd: 3
+Rec/Game: 5.4
+Yds/Game: 80.4
+Rec%: 63.3%
+Fmb: 0
+No.: 17
+Player: Chris Conley
+Age: 26
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 20
+RecCatch: 13
+RecYds: 104
+Yds/Rec: 8.0
+RecTd: 2
+Rec/Game: 1.9
+Yds/Game: 14.9
+Rec%: 65.0%
+Fmb: 1
+No.: 84
+Player: Demetrius Harris
+Age: 27
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 10
+RecCatch: 5
+RecYds: 94
+Yds/Rec: 18.8
+RecTd: 2
+Rec/Game: 0.8
+Yds/Game: 15.7
+Rec%: 50.0%
+Fmb: 0
+No.: 11
+Player: Demarcus Robinson
+Age: 24
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 8
+RecCatch: 5
+RecYds: 47
+Yds/Rec: 9.4
+RecTd: 1
+Rec/Game: 0.7
+Yds/Game: 6.7
+Rec%: 62.5%
+Fmb: 0
+No.: 42
+Player: Anthony Sherman
+Age: 30
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 4
+RecYds: 65
+Yds/Rec: 16.3
+RecTd: 1
+Rec/Game: 0.6
+Yds/Game: 9.3
+Rec%: 100.0%
+Fmb: 0
+No.: 19
+Player: Marcus Kemp
+Age: 23
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 7
+Yds/Rec: 7.0
+RecTd: 0
+Rec/Game: 0.1
+Yds/Game: 1.0
+Rec%: 100.0%
+Fmb: 0
+
+sdg Team Stats Data 
+No.: 17
+Player: Philip Rivers
+Age: 37
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 152
+Att: 220
+Cmp%: 69.1
+Yds: 2008
+Td: 17
+Td%: 7.7
+Int: 3
+Int%: 1.4
+Y/A: 9.1
+Y/C: 13.2
+Y/G: 286.9
+QBR: 79.4
+Sacked: 9
+No.: 3
+Player: Geno Smith
+Age: 28
+Pos: 
+Games: 2
+Started: 0
+Cmp: 1
+Att: 1
+Cmp%: 100.0
+Yds: 8
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 8.0
+Y/C: 8.0
+Y/G: 4.0
+QBR: 0.5
+Sacked: 0
+No.: 13
+Player: Keenan Allen
+Age: 26
+Pos: WR
+Games: 7
+Started: 7
+Cmp: 0
+Att: 0
+Cmp%: 
+Yds: 0
+Td: 0
+Td%: 
+Int: 0
+Int%: 
+Y/A: 
+Y/C: 
+Y/G: 0.0
+QBR: 0.0
+Sacked: 1
+No.: 28
+Player: Melvin Gordon
+Age: 25
+Pos: RB
+Games: 6
+Started: 6
+RushAtt: 91
+RushYds: 466
+RushTd: 6
+RushYds/Att: 5.1
+RushYds/Game: 77.7
+Att/Game: 15.2
+RecTargets: 42
+RecCatch: 30
+RecYds: 279
+Yds/Rec: 9.3
+RecTd: 3
+Rec/Game: 5.0
+Yds/Game: 46.5
+Rec%: 71.4%
+Fmb: 1
+No.: 30
+Player: Austin Ekeler
+Age: 23
+Pos: rb
+Games: 7
+Started: 1
+RushAtt: 53
+RushYds: 305
+RushTd: 0
+RushYds/Att: 5.8
+RushYds/Game: 43.6
+Att/Game: 7.6
+RecTargets: 24
+RecCatch: 19
+RecYds: 233
+Yds/Rec: 12.3
+RecTd: 3
+Rec/Game: 2.7
+Yds/Game: 33.3
+Rec%: 79.2%
+Fmb: 1
+No.: 17
+Player: Philip Rivers
+Age: 37
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 11
+RushYds: -1
+RushTd: 0
+RushYds/Att: -0.1
+RushYds/Game: -0.1
+Att/Game: 1.6
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 1
+No.: 13
+Player: Keenan Allen
+Age: 26
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 5
+RushYds: 46
+RushTd: 0
+RushYds/Att: 9.2
+RushYds/Game: 6.6
+Att/Game: 0.7
+RecTargets: 56
+RecCatch: 41
+RecYds: 506
+Yds/Rec: 12.3
+RecTd: 1
+Rec/Game: 5.9
+Yds/Game: 72.3
+Rec%: 73.2%
+Fmb: 3
+No.: 32
+Player: Justin Jackson
+Age: 23
+Pos: 
+Games: 4
+Started: 0
+RushAtt: 5
+RushYds: 7
+RushTd: 0
+RushYds/Att: 1.4
+RushYds/Game: 1.8
+Att/Game: 1.3
+RecTargets: 2
+RecCatch: 2
+RecYds: 19
+Yds/Rec: 9.5
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 4.8
+Rec%: 100.0%
+Fmb: 0
+No.: 81
+Player: Mike Williams
+Age: 24
+Pos: wr
+Games: 7
+Started: 2
+RushAtt: 3
+RushYds: 16
+RushTd: 0
+RushYds/Att: 5.3
+RushYds/Game: 2.3
+Att/Game: 0.4
+RecTargets: 29
+RecCatch: 17
+RecYds: 308
+Yds/Rec: 18.1
+RecTd: 4
+Rec/Game: 2.4
+Yds/Game: 44.0
+Rec%: 58.6%
+Fmb: 0
+No.: 3
+Player: Geno Smith
+Age: 28
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 3
+RushYds: -3
+RushTd: 0
+RushYds/Att: -1.0
+RushYds/Game: -1.5
+Att/Game: 1.5
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 16
+Player: Tyrell Williams
+Age: 26
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 2
+RushYds: 15
+RushTd: 0
+RushYds/Att: 7.5
+RushYds/Game: 2.1
+Att/Game: 0.3
+RecTargets: 27
+RecCatch: 20
+RecYds: 428
+Yds/Rec: 21.4
+RecTd: 4
+Rec/Game: 2.9
+Yds/Game: 61.1
+Rec%: 74.1%
+Fmb: 1
+No.: 12
+Player: Travis Benjamin
+Age: 29
+Pos: wr
+Games: 3
+Started: 1
+RushAtt: 1
+RushYds: 19
+RushTd: 0
+RushYds/Att: 19.0
+RushYds/Game: 6.3
+Att/Game: 0.3
+RecTargets: 7
+RecCatch: 3
+RecYds: 16
+Yds/Rec: 5.3
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 5.3
+Rec%: 42.9%
+Fmb: 0
+No.: 54
+Player: Melvin Ingram
+Age: 29
+Pos: DE
+Games: 7
+Started: 7
+RushAtt: 1
+RushYds: 0
+RushTd: 0
+RushYds/Att: 0.0
+RushYds/Game: 0.0
+Att/Game: 0.1
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 89
+Player: JJ Jones
+Age: 26
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 1
+RushYds: 0
+RushTd: 0
+RushYds/Att: 0.0
+RushYds/Game: 0.0
+Att/Game: 0.3
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 2
+No.: 38
+Player: Detrez Newsome
+Age: 24
+Pos: 
+Games: 4
+Started: 0
+RushAtt: 1
+RushYds: 0
+RushTd: 0
+RushYds/Att: 0.0
+RushYds/Game: 0.0
+Att/Game: 0.3
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 34
+Player: Derek Watt
+Age: 26
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 1
+RushYds: 1
+RushTd: 0
+RushYds/Att: 1.0
+RushYds/Game: 0.1
+Att/Game: 0.1
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 85
+Player: Antonio Gates
+Age: 38
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 21
+RecCatch: 12
+RecYds: 123
+Yds/Rec: 10.3
+RecTd: 1
+Rec/Game: 1.7
+Yds/Game: 17.6
+Rec%: 57.1%
+Fmb: 0
+No.: 88
+Player: Virgil Green
+Age: 30
+Pos: TE
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 10
+RecCatch: 9
+RecYds: 104
+Yds/Rec: 11.6
+RecTd: 1
+Rec/Game: 1.3
+Yds/Game: 14.9
+Rec%: 90.0%
+Fmb: 0
+
+ram Team Stats Data 
+No.: 16
+Player: Jared Goff
+Age: 24
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 152
+Att: 218
+Cmp%: 69.7
+Yds: 2130
+Td: 14
+Td%: 6.4
+Int: 5
+Int%: 2.3
+Y/A: 9.8
+Y/C: 14.0
+Y/G: 304.3
+QBR: 79.9
+Sacked: 13
+No.: 6
+Player: Johnny Hekker
+Age: 28
+Pos: P
+Games: 7
+Started: 0
+Cmp: 0
+Att: 1
+Cmp%: 0.0
+Yds: 0
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 0.0
+Y/C: 
+Y/G: 0.0
+QBR: 
+Sacked: 0
+No.: 30
+Player: Todd Gurley
+Age: 24
+Pos: RB
+Games: 7
+Started: 7
+RushAtt: 144
+RushYds: 686
+RushTd: 11
+RushYds/Att: 4.8
+RushYds/Game: 98.0
+Att/Game: 20.6
+RecTargets: 35
+RecCatch: 25
+RecYds: 270
+Yds/Rec: 10.8
+RecTd: 3
+Rec/Game: 3.6
+Yds/Game: 38.6
+Rec%: 71.4%
+Fmb: 1
+No.: 34
+Player: Malcolm Brown
+Age: 25
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 36
+RushYds: 182
+RushTd: 0
+RushYds/Att: 5.1
+RushYds/Game: 26.0
+Att/Game: 5.1
+RecTargets: 5
+RecCatch: 3
+RecYds: 24
+Yds/Rec: 8.0
+RecTd: 0
+Rec/Game: 0.4
+Yds/Game: 3.4
+Rec%: 60.0%
+Fmb: 0
+No.: 16
+Player: Jared Goff
+Age: 24
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 19
+RushYds: 55
+RushTd: 0
+RushYds/Att: 2.9
+RushYds/Game: 7.9
+Att/Game: 2.7
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 4
+No.: 17
+Player: Robert Woods
+Age: 26
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 8
+RushYds: 90
+RushTd: 0
+RushYds/Att: 11.3
+RushYds/Game: 12.9
+Att/Game: 1.1
+RecTargets: 58
+RecCatch: 41
+RecYds: 602
+Yds/Rec: 14.7
+RecTd: 3
+Rec/Game: 5.9
+Yds/Game: 86.0
+Rec%: 70.7%
+Fmb: 0
+No.: 18
+Player: Cooper Kupp
+Age: 25
+Pos: WR
+Games: 6
+Started: 6
+RushAtt: 4
+RushYds: 25
+RushTd: 0
+RushYds/Att: 6.3
+RushYds/Game: 4.2
+Att/Game: 0.7
+RecTargets: 42
+RecCatch: 30
+RecYds: 438
+Yds/Rec: 14.6
+RecTd: 5
+Rec/Game: 5.0
+Yds/Game: 73.0
+Rec%: 71.4%
+Fmb: 0
+No.: 12
+Player: Brandin Cooks
+Age: 25
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 3
+RushYds: 23
+RushTd: 0
+RushYds/Att: 7.7
+RushYds/Game: 3.3
+Att/Game: 0.4
+RecTargets: 44
+RecCatch: 32
+RecYds: 569
+Yds/Rec: 17.8
+RecTd: 2
+Rec/Game: 4.6
+Yds/Game: 81.3
+Rec%: 72.7%
+Fmb: 1
+No.: 14
+Player: Sean Mannion
+Age: 26
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 3
+RushYds: 1
+RushTd: 0
+RushYds/Att: 0.3
+RushYds/Game: 1.0
+Att/Game: 3.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 83
+Player: Josh Reynolds
+Age: 23
+Pos: wr
+Games: 7
+Started: 1
+RushAtt: 1
+RushYds: 10
+RushTd: 0
+RushYds/Att: 10.0
+RushYds/Game: 1.4
+Att/Game: 0.1
+RecTargets: 7
+RecCatch: 4
+RecYds: 56
+Yds/Rec: 14.0
+RecTd: 0
+Rec/Game: 0.6
+Yds/Game: 8.0
+Rec%: 57.1%
+Fmb: 0
+No.: 81
+Player: Gerald Everett
+Age: 24
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 14
+RecCatch: 9
+RecYds: 76
+Yds/Rec: 8.4
+RecTd: 0
+Rec/Game: 1.3
+Yds/Game: 10.9
+Rec%: 64.3%
+Fmb: 0
+No.: 89
+Player: Tyler Higbee
+Age: 25
+Pos: TE
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 10
+RecCatch: 5
+RecYds: 64
+Yds/Rec: 12.8
+RecTd: 1
+Rec/Game: 0.7
+Yds/Game: 9.1
+Rec%: 50.0%
+Fmb: 0
+No.: 15
+Player: Nick Williams
+Age: 28
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 2
+RecCatch: 2
+RecYds: 17
+Yds/Rec: 8.5
+RecTd: 0
+Rec/Game: 2.0
+Yds/Game: 17.0
+Rec%: 100.0%
+Fmb: 0
+No.: 11
+Player: KhaDarel Hodge
+Age: 23
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 14
+Yds/Rec: 14.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 2.8
+Rec%: 100.0%
+Fmb: 0
+
+mia Team Stats Data 
+No.: 17
+Player: Ryan Tannehill
+Age: 30
+Pos: QB
+Games: 5
+Started: 5
+Cmp: 85
+Att: 129
+Cmp%: 65.9
+Yds: 972
+Td: 8
+Td%: 6.2
+Int: 5
+Int%: 3.9
+Y/A: 7.5
+Y/C: 11.4
+Y/G: 194.4
+QBR: 34.5
+Sacked: 11
+No.: 8
+Player: Brock Osweiler
+Age: 28
+Pos: qb
+Games: 3
+Started: 2
+Cmp: 54
+Att: 80
+Cmp%: 67.5
+Yds: 654
+Td: 6
+Td%: 7.5
+Int: 2
+Int%: 2.5
+Y/A: 8.2
+Y/C: 12.1
+Y/G: 218.0
+QBR: 65.3
+Sacked: 4
+No.: 15
+Player: Albert Wilson
+Age: 26
+Pos: wr
+Games: 7
+Started: 3
+Cmp: 1
+Att: 1
+Cmp%: 100.0
+Yds: 52
+Td: 1
+Td%: 100.0
+Int: 0
+Int%: 0.0
+Y/A: 52.0
+Y/C: 52.0
+Y/G: 7.4
+QBR: 99.7
+Sacked: 0
+No.: 21
+Player: Frank Gore
+Age: 35
+Pos: RB
+Games: 7
+Started: 7
+RushAtt: 72
+RushYds: 332
+RushTd: 0
+RushYds/Att: 4.6
+RushYds/Game: 47.4
+Att/Game: 10.3
+RecTargets: 6
+RecCatch: 5
+RecYds: 57
+Yds/Rec: 11.4
+RecTd: 1
+Rec/Game: 0.7
+Yds/Game: 8.1
+Rec%: 83.3%
+Fmb: 0
+No.: 32
+Player: Kenyan Drake
+Age: 24
+Pos: RB
+Games: 7
+Started: 5
+RushAtt: 58
+RushYds: 282
+RushTd: 2
+RushYds/Att: 4.9
+RushYds/Game: 40.3
+Att/Game: 8.3
+RecTargets: 39
+RecCatch: 25
+RecYds: 160
+Yds/Rec: 6.4
+RecTd: 1
+Rec/Game: 3.6
+Yds/Game: 22.9
+Rec%: 64.1%
+Fmb: 1
+No.: 17
+Player: Ryan Tannehill
+Age: 30
+Pos: QB
+Games: 5
+Started: 5
+RushAtt: 19
+RushYds: 91
+RushTd: 0
+RushYds/Att: 4.8
+RushYds/Game: 18.2
+Att/Game: 3.8
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 4
+No.: 15
+Player: Albert Wilson
+Age: 26
+Pos: wr
+Games: 7
+Started: 3
+RushAtt: 8
+RushYds: 16
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 2.3
+Att/Game: 1.1
+RecTargets: 35
+RecCatch: 26
+RecYds: 391
+Yds/Rec: 15.0
+RecTd: 4
+Rec/Game: 3.7
+Yds/Game: 55.9
+Rec%: 74.3%
+Fmb: 0
+No.: 8
+Player: Brock Osweiler
+Age: 28
+Pos: qb
+Games: 3
+Started: 2
+RushAtt: 4
+RushYds: 17
+RushTd: 0
+RushYds/Att: 4.3
+RushYds/Game: 5.7
+Att/Game: 1.3
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 27
+Player: Kalen Ballage
+Age: 23
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 2
+RushYds: 5
+RushTd: 0
+RushYds/Att: 2.5
+RushYds/Game: 1.7
+Att/Game: 0.7
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 19
+Player: Jakeem Grant
+Age: 26
+Pos: wr
+Games: 7
+Started: 1
+RushAtt: 1
+RushYds: 5
+RushTd: 0
+RushYds/Att: 5.0
+RushYds/Game: 0.7
+Att/Game: 0.1
+RecTargets: 23
+RecCatch: 16
+RecYds: 216
+Yds/Rec: 13.5
+RecTd: 2
+Rec/Game: 2.3
+Yds/Game: 30.9
+Rec%: 69.6%
+Fmb: 0
+No.: 80
+Player: Danny Amendola
+Age: 33
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 38
+RecCatch: 30
+RecYds: 294
+Yds/Rec: 9.8
+RecTd: 1
+Rec/Game: 4.3
+Yds/Game: 42.0
+Rec%: 78.9%
+Fmb: 0
+No.: 10
+Player: Kenny Stills
+Age: 26
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 29
+RecCatch: 16
+RecYds: 281
+Yds/Rec: 17.6
+RecTd: 4
+Rec/Game: 2.3
+Yds/Game: 40.1
+Rec%: 55.2%
+Fmb: 0
+No.: 86
+Player: Mike Gesicki
+Age: 23
+Pos: te
+Games: 7
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 17
+RecCatch: 12
+RecYds: 132
+Yds/Rec: 11.0
+RecTd: 0
+Rec/Game: 1.7
+Yds/Game: 18.9
+Rec%: 70.6%
+Fmb: 0
+No.: 83
+Player: Nick O'Leary
+Age: 26
+Pos: te
+Games: 3
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 7
+RecCatch: 6
+RecYds: 72
+Yds/Rec: 12.0
+RecTd: 1
+Rec/Game: 2.0
+Yds/Game: 24.0
+Rec%: 85.7%
+Fmb: 0
+No.: 85
+Player: A.J. Derby
+Age: 27
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 2
+RecYds: 35
+Yds/Rec: 17.5
+RecTd: 1
+Rec/Game: 0.7
+Yds/Game: 11.7
+Rec%: 66.7%
+Fmb: 0
+No.: 11
+Player: DeVante Parker
+Age: 25
+Pos: wr
+Games: 2
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 2
+RecYds: 40
+Yds/Rec: 20.0
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 20.0
+Rec%: 50.0%
+Fmb: 0
+
+min Team Stats Data 
+No.: 8
+Player: Kirk Cousins
+Age: 30
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 210
+Att: 300
+Cmp%: 70.0
+Yds: 2162
+Td: 14
+Td%: 4.7
+Int: 3
+Int%: 1.0
+Y/A: 7.2
+Y/C: 10.3
+Y/G: 308.9
+QBR: 63.9
+Sacked: 19
+No.: 25
+Player: Latavius Murray
+Age: 28
+Pos: RB
+Games: 7
+Started: 4
+RushAtt: 69
+RushYds: 330
+RushTd: 3
+RushYds/Att: 4.8
+RushYds/Game: 47.1
+Att/Game: 9.9
+RecTargets: 15
+RecCatch: 12
+RecYds: 77
+Yds/Rec: 6.4
+RecTd: 0
+Rec/Game: 1.7
+Yds/Game: 11.0
+Rec%: 80.0%
+Fmb: 0
+No.: 33
+Player: Dalvin Cook
+Age: 23
+Pos: rb
+Games: 3
+Started: 3
+RushAtt: 36
+RushYds: 98
+RushTd: 0
+RushYds/Att: 2.7
+RushYds/Game: 32.7
+Att/Game: 12.0
+RecTargets: 12
+RecCatch: 9
+RecYds: 107
+Yds/Rec: 11.9
+RecTd: 0
+Rec/Game: 3.0
+Yds/Game: 35.7
+Rec%: 75.0%
+Fmb: 1
+No.: 8
+Player: Kirk Cousins
+Age: 30
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 23
+RushYds: 75
+RushTd: 1
+RushYds/Att: 3.3
+RushYds/Game: 10.7
+Att/Game: 3.3
+RecTargets: 1
+RecCatch: 1
+RecYds: -1
+Yds/Rec: -1.0
+RecTd: 0
+Rec/Game: 0.1
+Yds/Game: -0.1
+Rec%: 100.0%
+Fmb: 7
+No.: 44
+Player: Mike Boone
+Age: 23
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 8
+RushYds: 36
+RushTd: 0
+RushYds/Att: 4.5
+RushYds/Game: 7.2
+Att/Game: 1.6
+RecTargets: 3
+RecCatch: 2
+RecYds: 1
+Yds/Rec: 0.5
+RecTd: 0
+Rec/Game: 0.4
+Yds/Game: 0.2
+Rec%: 66.7%
+Fmb: 0
+No.: 14
+Player: Stefon Diggs
+Age: 25
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 7
+RushYds: 36
+RushTd: 0
+RushYds/Att: 5.1
+RushYds/Game: 5.1
+Att/Game: 1.0
+RecTargets: 73
+RecCatch: 48
+RecYds: 468
+Yds/Rec: 9.8
+RecTd: 3
+Rec/Game: 6.9
+Yds/Game: 66.9
+Rec%: 65.8%
+Fmb: 0
+No.: 32
+Player: Roc Thomas
+Age: 23
+Pos: 
+Games: 4
+Started: 0
+RushAtt: 7
+RushYds: 31
+RushTd: 0
+RushYds/Att: 4.4
+RushYds/Game: 7.8
+Att/Game: 1.8
+RecTargets: 3
+RecCatch: 1
+RecYds: 6
+Yds/Rec: 6.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 1.5
+Rec%: 33.3%
+Fmb: 0
+No.: 30
+Player: C.J. Ham
+Age: 25
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 2
+RushYds: 6
+RushTd: 0
+RushYds/Att: 3.0
+RushYds/Game: 0.9
+Att/Game: 0.3
+RecTargets: 12
+RecCatch: 8
+RecYds: 61
+Yds/Rec: 7.6
+RecTd: 0
+Rec/Game: 1.1
+Yds/Game: 8.7
+Rec%: 66.7%
+Fmb: 0
+No.: 19
+Player: Adam Thielen
+Age: 28
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 89
+RecCatch: 67
+RecYds: 822
+Yds/Rec: 12.3
+RecTd: 5
+Rec/Game: 9.6
+Yds/Game: 117.4
+Rec%: 75.3%
+Fmb: 0
+No.: 82
+Player: Kyle Rudolph
+Age: 29
+Pos: TE
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 36
+RecCatch: 28
+RecYds: 282
+Yds/Rec: 10.1
+RecTd: 2
+Rec/Game: 4.0
+Yds/Game: 40.3
+Rec%: 77.8%
+Fmb: 0
+No.: 11
+Player: Laquon Treadwell
+Age: 23
+Pos: wr
+Games: 7
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 32
+RecCatch: 22
+RecYds: 191
+Yds/Rec: 8.7
+RecTd: 1
+Rec/Game: 3.1
+Yds/Game: 27.3
+Rec%: 68.8%
+Fmb: 0
+No.: 89
+Player: David Morgan
+Age: 25
+Pos: te
+Games: 6
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 5
+RecCatch: 5
+RecYds: 36
+Yds/Rec: 7.2
+RecTd: 0
+Rec/Game: 0.8
+Yds/Game: 6.0
+Rec%: 100.0%
+Fmb: 0
+No.: 17
+Player: Aldrick Robinson
+Age: 30
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 8
+RecCatch: 4
+RecYds: 76
+Yds/Rec: 19.0
+RecTd: 3
+Rec/Game: 0.8
+Yds/Game: 15.2
+Rec%: 50.0%
+Fmb: 0
+No.: 83
+Player: Tyler Conklin
+Age: 23
+Pos: te
+Games: 7
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 2
+RecCatch: 2
+RecYds: 13
+Yds/Rec: 6.5
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 1.9
+Rec%: 100.0%
+Fmb: 0
+No.: 15
+Player: Brandon Zylstra
+Age: 25
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 23
+Yds/Rec: 23.0
+RecTd: 0
+Rec/Game: 0.1
+Yds/Game: 3.3
+Rec%: 100.0%
+Fmb: 0
+
+nwe Team Stats Data 
+No.: 12
+Player: Tom Brady
+Age: 41
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 170
+Att: 250
+Cmp%: 68.0
+Yds: 1876
+Td: 16
+Td%: 6.4
+Int: 7
+Int%: 2.8
+Y/A: 7.5
+Y/C: 11.0
+Y/G: 268.0
+QBR: 73.3
+Sacked: 9
+No.: 26
+Player: Sony Michel
+Age: 23
+Pos: RB
+Games: 6
+Started: 4
+RushAtt: 95
+RushYds: 422
+RushTd: 4
+RushYds/Att: 4.4
+RushYds/Game: 70.3
+Att/Game: 15.8
+RecTargets: 8
+RecCatch: 4
+RecYds: 31
+Yds/Rec: 7.8
+RecTd: 0
+Rec/Game: 0.7
+Yds/Game: 5.2
+Rec%: 50.0%
+Fmb: 1
+No.: 28
+Player: James White
+Age: 26
+Pos: rb
+Games: 7
+Started: 1
+RushAtt: 40
+RushYds: 189
+RushTd: 1
+RushYds/Att: 4.7
+RushYds/Game: 27.0
+Att/Game: 5.7
+RecTargets: 61
+RecCatch: 45
+RecYds: 380
+Yds/Rec: 8.4
+RecTd: 6
+Rec/Game: 6.4
+Yds/Game: 54.3
+Rec%: 73.8%
+Fmb: 0
+No.: 34
+Player: Rex Burkhead
+Age: 28
+Pos: rb
+Games: 3
+Started: 2
+RushAtt: 24
+RushYds: 86
+RushTd: 0
+RushYds/Att: 3.6
+RushYds/Game: 28.7
+Att/Game: 8.0
+RecTargets: 6
+RecCatch: 3
+RecYds: 31
+Yds/Rec: 10.3
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 10.3
+Rec%: 50.0%
+Fmb: 1
+No.: 38
+Player: Kenjon Barner
+Age: 28
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 16
+RushYds: 63
+RushTd: 0
+RushYds/Att: 3.9
+RushYds/Game: 21.0
+Att/Game: 5.3
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 12
+Player: Tom Brady
+Age: 41
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 12
+RushYds: 21
+RushTd: 2
+RushYds/Att: 1.8
+RushYds/Game: 3.0
+Att/Game: 1.7
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 3
+No.: 84
+Player: Cordarrelle Patterson
+Age: 27
+Pos: wr
+Games: 7
+Started: 2
+RushAtt: 7
+RushYds: 36
+RushTd: 0
+RushYds/Att: 5.1
+RushYds/Game: 5.1
+Att/Game: 1.0
+RecTargets: 15
+RecCatch: 11
+RecYds: 114
+Yds/Rec: 10.4
+RecTd: 2
+Rec/Game: 1.6
+Yds/Game: 16.3
+Rec%: 73.3%
+Fmb: 1
+No.: 33
+Player: Jeremy Hill
+Age: 26
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 4
+RushYds: 25
+RushTd: 0
+RushYds/Att: 6.3
+RushYds/Game: 25.0
+Att/Game: 4.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 6
+Yds/Rec: 6.0
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 6.0
+Rec%: 100.0%
+Fmb: 0
+No.: 2
+Player: Brian Hoyer
+Age: 33
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 3
+RushYds: -3
+RushTd: 0
+RushYds/Att: -1.0
+RushYds/Game: -3.0
+Att/Game: 3.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 11
+Player: Julian Edelman
+Age: 32
+Pos: wr
+Games: 3
+Started: 3
+RushAtt: 1
+RushYds: 7
+RushTd: 0
+RushYds/Att: 7.0
+RushYds/Game: 2.3
+Att/Game: 0.3
+RecTargets: 24
+RecCatch: 16
+RecYds: 147
+Yds/Rec: 9.2
+RecTd: 2
+Rec/Game: 5.3
+Yds/Game: 49.0
+Rec%: 66.7%
+Fmb: 1
+No.: 87
+Player: Rob Gronkowski
+Age: 29
+Pos: TE
+Games: 6
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 35
+RecCatch: 26
+RecYds: 405
+Yds/Rec: 15.6
+RecTd: 1
+Rec/Game: 4.3
+Yds/Game: 67.5
+Rec%: 74.3%
+Fmb: 1
+No.: 15
+Player: Chris Hogan
+Age: 30
+Pos: wr
+Games: 7
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 30
+RecCatch: 21
+RecYds: 284
+Yds/Rec: 13.5
+RecTd: 2
+Rec/Game: 3.0
+Yds/Game: 40.6
+Rec%: 70.0%
+Fmb: 0
+No.: 13
+Player: Phillip Dorsett
+Age: 25
+Pos: wr
+Games: 7
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 25
+RecCatch: 20
+RecYds: 198
+Yds/Rec: 9.9
+RecTd: 2
+Rec/Game: 2.9
+Yds/Game: 28.3
+Rec%: 80.0%
+Fmb: 0
+No.: 10
+Player: Josh Gordon
+Age: 27
+Pos: rb/wr
+Games: 4
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 22
+RecCatch: 13
+RecYds: 224
+Yds/Rec: 17.2
+RecTd: 1
+Rec/Game: 3.3
+Yds/Game: 56.0
+Rec%: 59.1%
+Fmb: 0
+No.: 46
+Player: James Develin
+Age: 30
+Pos: fb
+Games: 7
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 10
+RecCatch: 6
+RecYds: 25
+Yds/Rec: 4.2
+RecTd: 0
+Rec/Game: 0.9
+Yds/Game: 3.6
+Rec%: 60.0%
+Fmb: 0
+No.: 47
+Player: Jacob Hollister
+Age: 25
+Pos: wr
+Games: 3
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 3
+RecYds: 35
+Yds/Rec: 11.7
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 11.7
+Rec%: 100.0%
+Fmb: 0
+No.: 83
+Player: Dwayne Allen
+Age: 28
+Pos: TE
+Games: 7
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 2
+RecCatch: 1
+RecYds: -4
+Yds/Rec: -4.0
+RecTd: 0
+Rec/Game: 0.1
+Yds/Game: -0.6
+Rec%: 50.0%
+Fmb: 0
+
+nor Team Stats Data 
+No.: 9
+Player: Drew Brees
+Age: 39
+Pos: QB
+Games: 6
+Started: 6
+Cmp: 170
+Att: 220
+Cmp%: 77.3
+Yds: 1870
+Td: 13
+Td%: 5.9
+Int: 0
+Int%: 0.0
+Y/A: 8.5
+Y/C: 11.0
+Y/G: 311.7
+QBR: 85.0
+Sacked: 9
+No.: 7
+Player: Taysom Hill
+Age: 28
+Pos: 
+Games: 6
+Started: 0
+Cmp: 1
+Att: 2
+Cmp%: 50.0
+Yds: 10
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 5.0
+Y/C: 10.0
+Y/G: 1.7
+QBR: 39.5
+Sacked: 0
+No.: 41
+Player: Alvin Kamara
+Age: 23
+Pos: RB
+Games: 6
+Started: 5
+RushAtt: 79
+RushYds: 363
+RushTd: 6
+RushYds/Att: 4.6
+RushYds/Game: 60.5
+Att/Game: 13.2
+RecTargets: 53
+RecCatch: 40
+RecYds: 362
+Yds/Rec: 9.1
+RecTd: 1
+Rec/Game: 6.7
+Yds/Game: 60.3
+Rec%: 75.5%
+Fmb: 0
+No.: 22
+Player: Mark Ingram
+Age: 29
+Pos: rb
+Games: 2
+Started: 1
+RushAtt: 28
+RushYds: 85
+RushTd: 2
+RushYds/Att: 3.0
+RushYds/Game: 42.5
+Att/Game: 14.0
+RecTargets: 5
+RecCatch: 4
+RecYds: 30
+Yds/Rec: 7.5
+RecTd: 0
+Rec/Game: 2.0
+Yds/Game: 15.0
+Rec%: 80.0%
+Fmb: 1
+No.: 7
+Player: Taysom Hill
+Age: 28
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 18
+RushYds: 125
+RushTd: 1
+RushYds/Att: 6.9
+RushYds/Game: 20.8
+Att/Game: 3.0
+RecTargets: 1
+RecCatch: 1
+RecYds: -4
+Yds/Rec: -4.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: -0.7
+Rec%: 100.0%
+Fmb: 1
+No.: 25
+Player: Mike Gillislee
+Age: 28
+Pos: 
+Games: 4
+Started: 0
+RushAtt: 16
+RushYds: 43
+RushTd: 0
+RushYds/Att: 2.7
+RushYds/Game: 10.8
+Att/Game: 4.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 9
+Yds/Rec: 9.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 2.3
+Rec%: 100.0%
+Fmb: 1
+No.: 9
+Player: Drew Brees
+Age: 39
+Pos: QB
+Games: 6
+Started: 6
+RushAtt: 14
+RushYds: 9
+RushTd: 2
+RushYds/Att: 0.6
+RushYds/Game: 1.5
+Att/Game: 2.3
+RecTargets: 1
+RecCatch: 1
+RecYds: 1
+Yds/Rec: 1.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 0.2
+Rec%: 100.0%
+Fmb: 1
+No.: 19
+Player: Ted Ginn
+Age: 33
+Pos: WR
+Games: 4
+Started: 3
+RushAtt: 3
+RushYds: 26
+RushTd: 0
+RushYds/Att: 8.7
+RushYds/Game: 6.5
+Att/Game: 0.8
+RecTargets: 22
+RecCatch: 12
+RecYds: 135
+Yds/Rec: 11.3
+RecTd: 2
+Rec/Game: 3.0
+Yds/Game: 33.8
+Rec%: 54.5%
+Fmb: 1
+No.: 27
+Player: Jonathan Williams
+Age: 24
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 3
+RushYds: 0
+RushTd: 0
+RushYds/Att: 0.0
+RushYds/Game: 0.0
+Att/Game: 1.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 1
+Yds/Rec: 1.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 0.3
+Rec%: 100.0%
+Fmb: 0
+No.: 5
+Player: Teddy Bridgewater
+Age: 26
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 3
+RushYds: -3
+RushTd: 0
+RushYds/Att: -1.0
+RushYds/Game: -3.0
+Att/Game: 3.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 27
+Player: Dwayne Washington
+Age: 24
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 2
+RushYds: 2
+RushTd: 0
+RushYds/Att: 1.0
+RushYds/Game: 0.7
+Att/Game: 0.7
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 13
+Player: Michael Thomas
+Age: 25
+Pos: WR
+Games: 6
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 58
+RecCatch: 53
+RecYds: 588
+Yds/Rec: 11.1
+RecTd: 4
+Rec/Game: 8.8
+Yds/Game: 98.0
+Rec%: 91.4%
+Fmb: 2
+No.: 82
+Player: Ben Watson
+Age: 38
+Pos: TE
+Games: 6
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 28
+RecCatch: 23
+RecYds: 230
+Yds/Rec: 10.0
+RecTd: 1
+Rec/Game: 3.8
+Yds/Game: 38.3
+Rec%: 82.1%
+Fmb: 0
+No.: 81
+Player: Cameron Meredith
+Age: 26
+Pos: wr
+Games: 4
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 10
+RecCatch: 9
+RecYds: 114
+Yds/Rec: 12.7
+RecTd: 1
+Rec/Game: 2.3
+Yds/Game: 28.5
+Rec%: 90.0%
+Fmb: 1
+No.: 89
+Player: Josh Hill
+Age: 28
+Pos: TE
+Games: 6
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 8
+RecCatch: 8
+RecYds: 124
+Yds/Rec: 15.5
+RecTd: 1
+Rec/Game: 1.3
+Yds/Game: 20.7
+Rec%: 100.0%
+Fmb: 0
+No.: 10
+Player: Tre'Quan Smith
+Age: 22
+Pos: WR
+Games: 6
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 13
+RecCatch: 7
+RecYds: 173
+Yds/Rec: 24.7
+RecTd: 2
+Rec/Game: 1.2
+Yds/Game: 28.8
+Rec%: 53.8%
+Fmb: 0
+No.: 80
+Player: Austin Carr
+Age: 25
+Pos: wr
+Games: 6
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 7
+RecCatch: 5
+RecYds: 62
+Yds/Rec: 12.4
+RecTd: 0
+Rec/Game: 0.8
+Yds/Game: 10.3
+Rec%: 71.4%
+Fmb: 0
+No.: 42
+Player: Zach Line
+Age: 28
+Pos: fb
+Games: 6
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 3
+RecYds: 10
+Yds/Rec: 3.3
+RecTd: 1
+Rec/Game: 0.5
+Yds/Game: 1.7
+Rec%: 50.0%
+Fmb: 0
+No.: 85
+Player: Dan Arnold
+Age: 23
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 2
+RecYds: 35
+Yds/Rec: 17.5
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 17.5
+Rec%: 66.7%
+Fmb: 0
+No.: 34
+Player: Justin Hardee
+Age: 24
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 10
+Yds/Rec: 10.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 1.7
+Rec%: 100.0%
+Fmb: 0
+
+nyg Team Stats Data 
+No.: 10
+Player: Eli Manning
+Age: 37
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 185
+Att: 268
+Cmp%: 69.0
+Yds: 2061
+Td: 7
+Td%: 2.6
+Int: 4
+Int%: 1.5
+Y/A: 7.7
+Y/C: 11.1
+Y/G: 294.4
+QBR: 45.3
+Sacked: 24
+No.: 13
+Player: Odell Beckham
+Age: 26
+Pos: rb/WR
+Games: 7
+Started: 7
+Cmp: 1
+Att: 1
+Cmp%: 100.0
+Yds: 57
+Td: 1
+Td%: 100.0
+Int: 0
+Int%: 0.0
+Y/A: 57.0
+Y/C: 57.0
+Y/G: 8.1
+QBR: 
+Sacked: 0
+No.: 26
+Player: Saquon Barkley
+Age: 21
+Pos: RB
+Games: 7
+Started: 7
+RushAtt: 98
+RushYds: 481
+RushTd: 5
+RushYds/Att: 4.9
+RushYds/Game: 68.7
+Att/Game: 14.0
+RecTargets: 61
+RecCatch: 49
+RecYds: 424
+Yds/Rec: 8.7
+RecTd: 2
+Rec/Game: 7.0
+Yds/Game: 60.6
+Rec%: 80.3%
+Fmb: 0
+No.: 22
+Player: Wayne Gallman
+Age: 24
+Pos: rb
+Games: 7
+Started: 1
+RushAtt: 14
+RushYds: 49
+RushTd: 0
+RushYds/Att: 3.5
+RushYds/Game: 7.0
+Att/Game: 2.0
+RecTargets: 12
+RecCatch: 8
+RecYds: 62
+Yds/Rec: 7.8
+RecTd: 0
+Rec/Game: 1.1
+Yds/Game: 8.9
+Rec%: 66.7%
+Fmb: 1
+No.: 10
+Player: Eli Manning
+Age: 37
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 11
+RushYds: 19
+RushTd: 0
+RushYds/Att: 1.7
+RushYds/Game: 2.7
+Att/Game: 1.6
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 4
+No.: 23
+Player: Jonathan Stewart
+Age: 31
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 6
+RushYds: 17
+RushTd: 0
+RushYds/Att: 2.8
+RushYds/Game: 5.7
+Att/Game: 2.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 13
+Player: Odell Beckham
+Age: 26
+Pos: rb/WR
+Games: 7
+Started: 7
+RushAtt: 4
+RushYds: 8
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 1.1
+Att/Game: 0.6
+RecTargets: 80
+RecCatch: 53
+RecYds: 649
+Yds/Rec: 12.2
+RecTd: 2
+Rec/Game: 7.6
+Yds/Game: 92.7
+Rec%: 66.3%
+Fmb: 2
+No.: 88
+Player: Evan Engram
+Age: 24
+Pos: TE
+Games: 4
+Started: 4
+RushAtt: 1
+RushYds: 10
+RushTd: 0
+RushYds/Att: 10.0
+RushYds/Game: 2.5
+Att/Game: 0.3
+RecTargets: 17
+RecCatch: 12
+RecYds: 120
+Yds/Rec: 10.0
+RecTd: 1
+Rec/Game: 3.0
+Yds/Game: 30.0
+Rec%: 70.6%
+Fmb: 0
+No.: 39
+Player: Elijhaa Penny
+Age: 25
+Pos: rb
+Games: 5
+Started: 1
+RushAtt: 1
+RushYds: 2
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 0.4
+Att/Game: 0.2
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 87
+Player: Sterling Shepard
+Age: 25
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 51
+RecCatch: 36
+RecYds: 508
+Yds/Rec: 14.1
+RecTd: 2
+Rec/Game: 5.1
+Yds/Game: 72.6
+Rec%: 70.6%
+Fmb: 1
+No.: 85
+Player: Rhett Ellison
+Age: 30
+Pos: TE
+Games: 6
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 16
+RecCatch: 13
+RecYds: 117
+Yds/Rec: 9.0
+RecTd: 1
+Rec/Game: 2.2
+Yds/Game: 19.5
+Rec%: 81.3%
+Fmb: 0
+No.: 12
+Player: Cody Latimer
+Age: 26
+Pos: wr
+Games: 4
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 9
+RecCatch: 6
+RecYds: 108
+Yds/Rec: 18.0
+RecTd: 0
+Rec/Game: 1.5
+Yds/Game: 27.0
+Rec%: 66.7%
+Fmb: 0
+No.: 8
+Player: Russell Shepard
+Age: 28
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 8
+RecCatch: 4
+RecYds: 61
+Yds/Rec: 15.3
+RecTd: 0
+Rec/Game: 0.8
+Yds/Game: 12.2
+Rec%: 50.0%
+Fmb: 0
+No.: 80
+Player: Jawill Davis
+Age: 23
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 2
+RecYds: 27
+Yds/Rec: 13.5
+RecTd: 0
+Rec/Game: 0.7
+Yds/Game: 9.0
+Rec%: 33.3%
+Fmb: 0
+No.: 82
+Player: Scott Simonson
+Age: 26
+Pos: te
+Games: 7
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 2
+RecYds: 31
+Yds/Rec: 15.5
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 4.4
+Rec%: 33.3%
+Fmb: 0
+No.: 18
+Player: Bennie Fowler
+Age: 27
+Pos: wr
+Games: 1
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 11
+Yds/Rec: 11.0
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 11.0
+Rec%: 100.0%
+Fmb: 0
+
+nyj Team Stats Data 
+No.: 14
+Player: Sam Darnold
+Age: 21
+Pos: QB
+Games: 7
+Started: 7
+Cmp: 124
+Att: 221
+Cmp%: 56.1
+Yds: 1552
+Td: 10
+Td%: 4.5
+Int: 10
+Int%: 4.5
+Y/A: 7.0
+Y/C: 12.5
+Y/G: 221.7
+QBR: 35.2
+Sacked: 16
+No.: 20
+Player: Isaiah Crowell
+Age: 25
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 81
+RushYds: 459
+RushTd: 5
+RushYds/Att: 5.7
+RushYds/Game: 65.6
+Att/Game: 11.6
+RecTargets: 13
+RecCatch: 9
+RecYds: 69
+Yds/Rec: 7.7
+RecTd: 0
+Rec/Game: 1.3
+Yds/Game: 9.9
+Rec%: 69.2%
+Fmb: 0
+No.: 29
+Player: Bilal Powell
+Age: 30
+Pos: RB
+Games: 7
+Started: 7
+RushAtt: 80
+RushYds: 343
+RushTd: 0
+RushYds/Att: 4.3
+RushYds/Game: 49.0
+Att/Game: 11.4
+RecTargets: 18
+RecCatch: 11
+RecYds: 110
+Yds/Rec: 10.0
+RecTd: 1
+Rec/Game: 1.6
+Yds/Game: 15.7
+Rec%: 61.1%
+Fmb: 2
+No.: 14
+Player: Sam Darnold
+Age: 21
+Pos: QB
+Games: 7
+Started: 7
+RushAtt: 25
+RushYds: 39
+RushTd: 1
+RushYds/Att: 1.6
+RushYds/Game: 5.6
+Att/Game: 3.6
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 3
+No.: 40
+Player: Trenton Cannon
+Age: 24
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 8
+RushYds: 19
+RushTd: 0
+RushYds/Att: 2.4
+RushYds/Game: 2.7
+Att/Game: 1.1
+RecTargets: 6
+RecCatch: 5
+RecYds: 75
+Yds/Rec: 15.0
+RecTd: 0
+Rec/Game: 0.7
+Yds/Game: 10.7
+Rec%: 83.3%
+Fmb: 0
+No.: 81
+Player: Quincy Enunwa
+Age: 26
+Pos: WR
+Games: 6
+Started: 6
+RushAtt: 1
+RushYds: 0
+RushTd: 0
+RushYds/Att: 0.0
+RushYds/Game: 0.0
+Att/Game: 0.2
+RecTargets: 43
+RecCatch: 22
+RecYds: 287
+Yds/Rec: 13.0
+RecTd: 1
+Rec/Game: 3.7
+Yds/Game: 47.8
+Rec%: 51.2%
+Fmb: 2
+No.: 11
+Player: Robby Anderson
+Age: 25
+Pos: WR
+Games: 7
+Started: 4
+RushAtt: 1
+RushYds: -9
+RushTd: 0
+RushYds/Att: -9.0
+RushYds/Game: -1.3
+Att/Game: 0.1
+RecTargets: 36
+RecCatch: 17
+RecYds: 314
+Yds/Rec: 18.5
+RecTd: 3
+Rec/Game: 2.4
+Yds/Game: 44.9
+Rec%: 47.2%
+Fmb: 2
+No.: 19
+Player: Andre Roberts
+Age: 30
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 1
+RushYds: 2
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 0.3
+Att/Game: 0.1
+RecTargets: 8
+RecCatch: 3
+RecYds: 25
+Yds/Rec: 8.3
+RecTd: 0
+Rec/Game: 0.4
+Yds/Game: 3.6
+Rec%: 37.5%
+Fmb: 2
+No.: 10
+Player: Jermaine Kearse
+Age: 28
+Pos: wr
+Games: 6
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 29
+RecCatch: 16
+RecYds: 165
+Yds/Rec: 10.3
+RecTd: 0
+Rec/Game: 2.7
+Yds/Game: 27.5
+Rec%: 55.2%
+Fmb: 0
+No.: 1
+Player: Terrelle Pryor
+Age: 29
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 22
+RecCatch: 14
+RecYds: 235
+Yds/Rec: 16.8
+RecTd: 2
+Rec/Game: 2.3
+Yds/Game: 39.2
+Rec%: 63.6%
+Fmb: 0
+No.: 89
+Player: Christopher Herndon
+Age: 22
+Pos: TE
+Games: 7
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 16
+RecCatch: 11
+RecYds: 145
+Yds/Rec: 13.2
+RecTd: 2
+Rec/Game: 1.6
+Yds/Game: 20.7
+Rec%: 68.8%
+Fmb: 1
+No.: 83
+Player: Eric Tomlinson
+Age: 26
+Pos: TE
+Games: 7
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 10
+RecCatch: 6
+RecYds: 55
+Yds/Rec: 9.2
+RecTd: 0
+Rec/Game: 0.9
+Yds/Game: 7.9
+Rec%: 60.0%
+Fmb: 0
+No.: 85
+Player: Neal Sterling
+Age: 26
+Pos: te
+Games: 4
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 7
+RecCatch: 5
+RecYds: 40
+Yds/Rec: 8.0
+RecTd: 0
+Rec/Game: 1.3
+Yds/Game: 10.0
+Rec%: 71.4%
+Fmb: 0
+No.: 86
+Player: Jordan Leggett
+Age: 23
+Pos: te
+Games: 6
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 7
+RecCatch: 4
+RecYds: 23
+Yds/Rec: 5.8
+RecTd: 1
+Rec/Game: 0.7
+Yds/Game: 3.8
+Rec%: 57.1%
+Fmb: 0
+No.: 18
+Player: Deontay Burnett
+Age: 21
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 2
+RecCatch: 1
+RecYds: 9
+Yds/Rec: 9.0
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 9.0
+Rec%: 50.0%
+Fmb: 0
+
+rai Team Stats Data 
+No.: 4
+Player: Derek Carr
+Age: 27
+Pos: QB
+Games: 6
+Started: 6
+Cmp: 167
+Att: 233
+Cmp%: 71.7
+Yds: 1783
+Td: 7
+Td%: 3.0
+Int: 8
+Int%: 3.4
+Y/A: 7.7
+Y/C: 10.7
+Y/G: 297.2
+QBR: 43.5
+Sacked: 17
+No.: 24
+Player: Marshawn Lynch
+Age: 32
+Pos: RB
+Games: 6
+Started: 6
+RushAtt: 90
+RushYds: 376
+RushTd: 3
+RushYds/Att: 4.2
+RushYds/Game: 62.7
+Att/Game: 15.0
+RecTargets: 18
+RecCatch: 15
+RecYds: 84
+Yds/Rec: 5.6
+RecTd: 0
+Rec/Game: 2.5
+Yds/Game: 14.0
+Rec%: 83.3%
+Fmb: 0
+No.: 28
+Player: Doug Martin
+Age: 29
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 27
+RushYds: 99
+RushTd: 0
+RushYds/Att: 3.7
+RushYds/Game: 16.5
+Att/Game: 4.5
+RecTargets: 5
+RecCatch: 4
+RecYds: 5
+Yds/Rec: 1.3
+RecTd: 0
+Rec/Game: 0.7
+Yds/Game: 0.8
+Rec%: 80.0%
+Fmb: 0
+No.: 30
+Player: Jalen Richard
+Age: 25
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 11
+RushYds: 32
+RushTd: 0
+RushYds/Att: 2.9
+RushYds/Game: 5.3
+Att/Game: 1.8
+RecTargets: 37
+RecCatch: 31
+RecYds: 253
+Yds/Rec: 8.2
+RecTd: 0
+Rec/Game: 5.2
+Yds/Game: 42.2
+Rec%: 83.8%
+Fmb: 0
+No.: 4
+Player: Derek Carr
+Age: 27
+Pos: QB
+Games: 6
+Started: 6
+RushAtt: 11
+RushYds: 36
+RushTd: 0
+RushYds/Att: 3.3
+RushYds/Game: 6.0
+Att/Game: 1.8
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 2
+No.: 89
+Player: Amari Cooper
+Age: 24
+Pos: WR
+Games: 6
+Started: 6
+RushAtt: 1
+RushYds: 9
+RushTd: 0
+RushYds/Att: 9.0
+RushYds/Game: 1.5
+Att/Game: 0.2
+RecTargets: 32
+RecCatch: 22
+RecYds: 280
+Yds/Rec: 12.7
+RecTd: 1
+Rec/Game: 3.7
+Yds/Game: 46.7
+Rec%: 68.8%
+Fmb: 0
+No.: 10
+Player: Martavis Bryant
+Age: 27
+Pos: wr
+Games: 5
+Started: 1
+RushAtt: 1
+RushYds: 4
+RushTd: 0
+RushYds/Att: 4.0
+RushYds/Game: 0.8
+Att/Game: 0.2
+RecTargets: 21
+RecCatch: 14
+RecYds: 220
+Yds/Rec: 15.7
+RecTd: 0
+Rec/Game: 2.8
+Yds/Game: 44.0
+Rec%: 66.7%
+Fmb: 1
+No.: 17
+Player: Dwayne Harris
+Age: 31
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 1
+RushYds: -1
+RushTd: 0
+RushYds/Att: -1.0
+RushYds/Game: -0.2
+Att/Game: 0.2
+RecTargets: 3
+RecCatch: 3
+RecYds: 18
+Yds/Rec: 6.0
+RecTd: 0
+Rec/Game: 0.6
+Yds/Game: 3.6
+Rec%: 100.0%
+Fmb: 1
+No.: 41
+Player: Keith Smith
+Age: 26
+Pos: fb
+Games: 6
+Started: 1
+RushAtt: 1
+RushYds: 0
+RushTd: 0
+RushYds/Att: 0.0
+RushYds/Game: 0.0
+Att/Game: 0.2
+RecTargets: 4
+RecCatch: 3
+RecYds: 14
+Yds/Rec: 4.7
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 2.3
+Rec%: 75.0%
+Fmb: 0
+No.: 87
+Player: Jared Cook
+Age: 31
+Pos: TE
+Games: 6
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 43
+RecCatch: 32
+RecYds: 400
+Yds/Rec: 12.5
+RecTd: 2
+Rec/Game: 5.3
+Yds/Game: 66.7
+Rec%: 74.4%
+Fmb: 0
+No.: 82
+Player: Jordy Nelson
+Age: 33
+Pos: WR
+Games: 6
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 31
+RecCatch: 22
+RecYds: 323
+Yds/Rec: 14.7
+RecTd: 3
+Rec/Game: 3.7
+Yds/Game: 53.8
+Rec%: 71.0%
+Fmb: 1
+No.: 10
+Player: Seth Roberts
+Age: 27
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 22
+RecCatch: 15
+RecYds: 138
+Yds/Rec: 9.2
+RecTd: 1
+Rec/Game: 3.0
+Yds/Game: 27.6
+Rec%: 68.2%
+Fmb: 0
+No.: 85
+Player: Derek Carrier
+Age: 28
+Pos: te
+Games: 6
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 3
+RecYds: 25
+Yds/Rec: 8.3
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 4.2
+Rec%: 50.0%
+Fmb: 0
+No.: 86
+Player: Lee Smith
+Age: 31
+Pos: te
+Games: 6
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 3
+RecYds: 23
+Yds/Rec: 7.7
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 3.8
+Rec%: 75.0%
+Fmb: 0
+
+phi Team Stats Data 
+No.: 11
+Player: Carson Wentz
+Age: 26
+Pos: QB
+Games: 5
+Started: 5
+Cmp: 138
+Att: 195
+Cmp%: 70.8
+Yds: 1502
+Td: 10
+Td%: 5.1
+Int: 1
+Int%: 0.5
+Y/A: 7.7
+Y/C: 10.9
+Y/G: 300.4
+QBR: 62.7
+Sacked: 17
+No.: 9
+Player: Nick Foles
+Age: 29
+Pos: qb
+Games: 2
+Started: 2
+Cmp: 54
+Att: 82
+Cmp%: 65.9
+Yds: 451
+Td: 1
+Td%: 1.2
+Int: 1
+Int%: 1.2
+Y/A: 5.5
+Y/C: 8.4
+Y/G: 225.5
+QBR: 56.3
+Sacked: 5
+No.: 13
+Player: Nelson Agholor
+Age: 25
+Pos: WR
+Games: 7
+Started: 7
+Cmp: 1
+Att: 1
+Cmp%: 100.0
+Yds: 15
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 15.0
+Y/C: 15.0
+Y/G: 2.1
+QBR: 100.0
+Sacked: 0
+No.: 28
+Player: Wendell Smallwood
+Age: 24
+Pos: rb
+Games: 7
+Started: 3
+RushAtt: 52
+RushYds: 233
+RushTd: 1
+RushYds/Att: 4.5
+RushYds/Game: 33.3
+Att/Game: 7.4
+RecTargets: 19
+RecCatch: 13
+RecYds: 101
+Yds/Rec: 7.8
+RecTd: 1
+Rec/Game: 1.9
+Yds/Game: 14.4
+Rec%: 68.4%
+Fmb: 2
+No.: 30
+Player: Corey Clement
+Age: 24
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 46
+RushYds: 161
+RushTd: 2
+RushYds/Att: 3.5
+RushYds/Game: 32.2
+Att/Game: 9.2
+RecTargets: 15
+RecCatch: 13
+RecYds: 116
+Yds/Rec: 8.9
+RecTd: 0
+Rec/Game: 2.6
+Yds/Game: 23.2
+Rec%: 86.7%
+Fmb: 3
+No.: 26
+Player: Jay Ajayi
+Age: 25
+Pos: rb
+Games: 4
+Started: 3
+RushAtt: 45
+RushYds: 184
+RushTd: 3
+RushYds/Att: 4.1
+RushYds/Game: 46.0
+Att/Game: 11.3
+RecTargets: 6
+RecCatch: 5
+RecYds: 20
+Yds/Rec: 4.0
+RecTd: 0
+Rec/Game: 1.3
+Yds/Game: 5.0
+Rec%: 83.3%
+Fmb: 1
+No.: 11
+Player: Carson Wentz
+Age: 26
+Pos: QB
+Games: 5
+Started: 5
+RushAtt: 15
+RushYds: 61
+RushTd: 0
+RushYds/Att: 4.1
+RushYds/Game: 12.2
+Att/Game: 3.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 6
+No.: 33
+Player: Josh Adams
+Age: 22
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 11
+RushYds: 46
+RushTd: 0
+RushYds/Att: 4.2
+RushYds/Game: 9.2
+Att/Game: 2.2
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 43
+Player: Darren Sproles
+Age: 35
+Pos: rb
+Games: 1
+Started: 1
+RushAtt: 5
+RushYds: 10
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 10.0
+Att/Game: 5.0
+RecTargets: 7
+RecCatch: 4
+RecYds: 22
+Yds/Rec: 5.5
+RecTd: 0
+Rec/Game: 4.0
+Yds/Game: 22.0
+Rec%: 57.1%
+Fmb: 0
+No.: 9
+Player: Nick Foles
+Age: 29
+Pos: qb
+Games: 2
+Started: 2
+RushAtt: 4
+RushYds: 7
+RushTd: 0
+RushYds/Att: 1.8
+RushYds/Game: 3.5
+Att/Game: 2.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 10
+Yds/Rec: 10.0
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 5.0
+Rec%: 100.0%
+Fmb: 2
+No.: 13
+Player: Nelson Agholor
+Age: 25
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 2
+RushYds: 18
+RushTd: 0
+RushYds/Att: 9.0
+RushYds/Game: 2.6
+Att/Game: 0.3
+RecTargets: 55
+RecCatch: 38
+RecYds: 323
+Yds/Rec: 8.5
+RecTd: 1
+Rec/Game: 5.4
+Yds/Game: 46.1
+Rec%: 69.1%
+Fmb: 1
+No.: 86
+Player: Zach Ertz
+Age: 28
+Pos: TE
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 78
+RecCatch: 57
+RecYds: 618
+Yds/Rec: 10.8
+RecTd: 2
+Rec/Game: 8.1
+Yds/Game: 88.3
+Rec%: 73.1%
+Fmb: 0
+No.: 17
+Player: Alshon Jeffery
+Age: 28
+Pos: WR
+Games: 4
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 39
+RecCatch: 25
+RecYds: 306
+Yds/Rec: 12.2
+RecTd: 4
+Rec/Game: 6.3
+Yds/Game: 76.5
+Rec%: 64.1%
+Fmb: 1
+No.: 88
+Player: Dallas Goedert
+Age: 23
+Pos: TE
+Games: 7
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 20
+RecCatch: 17
+RecYds: 156
+Yds/Rec: 9.2
+RecTd: 2
+Rec/Game: 2.4
+Yds/Game: 22.3
+Rec%: 85.0%
+Fmb: 0
+No.: 81
+Player: Kamar Aiken
+Age: 29
+Pos: wr
+Games: 5
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 7
+RecCatch: 6
+RecYds: 53
+Yds/Rec: 8.8
+RecTd: 0
+Rec/Game: 1.2
+Yds/Game: 10.6
+Rec%: 85.7%
+Fmb: 0
+No.: 80
+Player: Jordan Matthews
+Age: 26
+Pos: wr
+Games: 5
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 9
+RecCatch: 6
+RecYds: 107
+Yds/Rec: 17.8
+RecTd: 1
+Rec/Game: 1.2
+Yds/Game: 21.4
+Rec%: 66.7%
+Fmb: 0
+No.: 83
+Player: Joshua Perkins
+Age: 25
+Pos: te
+Games: 7
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 10
+RecCatch: 5
+RecYds: 67
+Yds/Rec: 13.4
+RecTd: 0
+Rec/Game: 0.7
+Yds/Game: 9.6
+Rec%: 50.0%
+Fmb: 0
+No.: 16
+Player: DeAndre Carter
+Age: 25
+Pos: wr
+Games: 6
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 2
+RecCatch: 2
+RecYds: 21
+Yds/Rec: 10.5
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 3.5
+Rec%: 100.0%
+Fmb: 1
+No.: 18
+Player: Shelton Gibson
+Age: 23
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 1
+RecYds: 48
+Yds/Rec: 48.0
+RecTd: 0
+Rec/Game: 0.1
+Yds/Game: 6.9
+Rec%: 33.3%
+Fmb: 0
+
+pit Team Stats Data 
+No.: 7
+Player: Ben Roethlisberger
+Age: 36
+Pos: QB
+Games: 6
+Started: 6
+Cmp: 170
+Att: 261
+Cmp%: 65.1
+Yds: 2033
+Td: 12
+Td%: 4.6
+Int: 6
+Int%: 2.3
+Y/A: 7.8
+Y/C: 12.0
+Y/G: 338.8
+QBR: 69.7
+Sacked: 9
+No.: 30
+Player: James Conner
+Age: 23
+Pos: RB
+Games: 6
+Started: 5
+RushAtt: 103
+RushYds: 453
+RushTd: 7
+RushYds/Att: 4.4
+RushYds/Game: 75.5
+Att/Game: 17.2
+RecTargets: 35
+RecCatch: 26
+RecYds: 257
+Yds/Rec: 9.9
+RecTd: 0
+Rec/Game: 4.3
+Yds/Game: 42.8
+Rec%: 74.3%
+Fmb: 2
+No.: 7
+Player: Ben Roethlisberger
+Age: 36
+Pos: QB
+Games: 6
+Started: 6
+RushAtt: 13
+RushYds: 38
+RushTd: 1
+RushYds/Att: 2.9
+RushYds/Game: 6.3
+Att/Game: 2.2
+RecTargets: 1
+RecCatch: 1
+RecYds: -1
+Yds/Rec: -1.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: -0.2
+Rec%: 100.0%
+Fmb: 4
+No.: 22
+Player: Stevan Ridley
+Age: 29
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 10
+RushYds: 30
+RushTd: 0
+RushYds/Att: 3.0
+RushYds/Game: 6.0
+Att/Game: 2.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 5
+Yds/Rec: 5.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 1.0
+Rec%: 100.0%
+Fmb: 0
+No.: 10
+Player: Ryan Switzer
+Age: 24
+Pos: wr
+Games: 6
+Started: 1
+RushAtt: 4
+RushYds: 14
+RushTd: 0
+RushYds/Att: 3.5
+RushYds/Game: 2.3
+Att/Game: 0.7
+RecTargets: 15
+RecCatch: 13
+RecYds: 67
+Yds/Rec: 5.2
+RecTd: 1
+Rec/Game: 2.2
+Yds/Game: 11.2
+Rec%: 86.7%
+Fmb: 0
+No.: 5
+Player: Joshua Dobbs
+Age: 23
+Pos: 
+Games: 1
+Started: 0
+RushAtt: 1
+RushYds: -3
+RushTd: 0
+RushYds/Att: -3.0
+RushYds/Game: -3.0
+Att/Game: 1.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 19
+Player: JuJu Smith-Schuster
+Age: 22
+Pos: WR
+Games: 6
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 63
+RecCatch: 42
+RecYds: 561
+Yds/Rec: 13.4
+RecTd: 2
+Rec/Game: 7.0
+Yds/Game: 93.5
+Rec%: 66.7%
+Fmb: 0
+No.: 84
+Player: Antonio Brown
+Age: 30
+Pos: WR
+Games: 6
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 72
+RecCatch: 40
+RecYds: 478
+Yds/Rec: 12.0
+RecTd: 6
+Rec/Game: 6.7
+Yds/Game: 79.7
+Rec%: 55.6%
+Fmb: 0
+No.: 89
+Player: Vance McDonald
+Age: 28
+Pos: TE
+Games: 5
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 25
+RecCatch: 20
+RecYds: 274
+Yds/Rec: 13.7
+RecTd: 1
+Rec/Game: 4.0
+Yds/Game: 54.8
+Rec%: 80.0%
+Fmb: 2
+No.: 81
+Player: Jesse James
+Age: 24
+Pos: TE
+Games: 6
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 21
+RecCatch: 17
+RecYds: 274
+Yds/Rec: 16.1
+RecTd: 1
+Rec/Game: 2.8
+Yds/Game: 45.7
+Rec%: 81.0%
+Fmb: 0
+No.: 13
+Player: James Washington
+Age: 22
+Pos: WR
+Games: 6
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 14
+RecCatch: 5
+RecYds: 49
+Yds/Rec: 9.8
+RecTd: 1
+Rec/Game: 0.8
+Yds/Game: 8.2
+Rec%: 35.7%
+Fmb: 0
+No.: 85
+Player: Xavier Grimble
+Age: 26
+Pos: te
+Games: 6
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 3
+RecYds: 44
+Yds/Rec: 14.7
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 7.3
+Rec%: 75.0%
+Fmb: 0
+No.: 11
+Player: Justin Hunter
+Age: 27
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 1
+RecYds: 6
+Yds/Rec: 6.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 2.0
+Rec%: 16.7%
+Fmb: 0
+No.: 45
+Player: Roosevelt Nix
+Age: 26
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 2
+RecCatch: 1
+RecYds: 19
+Yds/Rec: 19.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 3.2
+Rec%: 50.0%
+Fmb: 0
+
+sfo Team Stats Data 
+No.: 3
+Player: C.J. Beathard
+Age: 25
+Pos: QB
+Games: 5
+Started: 4
+Cmp: 88
+Att: 141
+Cmp%: 62.4
+Yds: 1062
+Td: 7
+Td%: 5.0
+Int: 7
+Int%: 5.0
+Y/A: 7.5
+Y/C: 12.1
+Y/G: 212.4
+QBR: 43.8
+Sacked: 14
+No.: 10
+Player: Jimmy Garoppolo
+Age: 27
+Pos: qb
+Games: 3
+Started: 3
+Cmp: 53
+Att: 89
+Cmp%: 59.6
+Yds: 718
+Td: 5
+Td%: 5.6
+Int: 3
+Int%: 3.4
+Y/A: 8.1
+Y/C: 13.5
+Y/G: 239.3
+QBR: 26.9
+Sacked: 13
+No.: 36
+Player: Alfred Morris
+Age: 30
+Pos: rb
+Games: 7
+Started: 1
+RushAtt: 71
+RushYds: 253
+RushTd: 1
+RushYds/Att: 3.6
+RushYds/Game: 36.1
+Att/Game: 10.1
+RecTargets: 11
+RecCatch: 6
+RecYds: 66
+Yds/Rec: 11.0
+RecTd: 0
+Rec/Game: 0.9
+Yds/Game: 9.4
+Rec%: 54.5%
+Fmb: 2
+No.: 22
+Player: Matt Breida
+Age: 23
+Pos: RB
+Games: 7
+Started: 6
+RushAtt: 68
+RushYds: 445
+RushTd: 2
+RushYds/Att: 6.5
+RushYds/Game: 63.6
+Att/Game: 9.7
+RecTargets: 13
+RecCatch: 11
+RecYds: 90
+Yds/Rec: 8.2
+RecTd: 1
+Rec/Game: 1.6
+Yds/Game: 12.9
+Rec%: 84.6%
+Fmb: 1
+No.: 31
+Player: Raheem Mostert
+Age: 26
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 25
+RushYds: 157
+RushTd: 0
+RushYds/Att: 6.3
+RushYds/Game: 22.4
+Att/Game: 3.6
+RecTargets: 6
+RecCatch: 6
+RecYds: 25
+Yds/Rec: 4.2
+RecTd: 0
+Rec/Game: 0.9
+Yds/Game: 3.6
+Rec%: 100.0%
+Fmb: 1
+No.: 3
+Player: C.J. Beathard
+Age: 25
+Pos: QB
+Games: 5
+Started: 4
+RushAtt: 14
+RushYds: 60
+RushTd: 1
+RushYds/Att: 4.3
+RushYds/Game: 12.0
+Att/Game: 2.8
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 5
+No.: 10
+Player: Jimmy Garoppolo
+Age: 27
+Pos: qb
+Games: 3
+Started: 3
+RushAtt: 8
+RushYds: 33
+RushTd: 0
+RushYds/Att: 4.1
+RushYds/Game: 11.0
+Att/Game: 2.7
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 4
+No.: 11
+Player: Marquise Goodwin
+Age: 28
+Pos: WR
+Games: 5
+Started: 5
+RushAtt: 3
+RushYds: 7
+RushTd: 0
+RushYds/Att: 2.3
+RushYds/Game: 1.4
+Att/Game: 0.6
+RecTargets: 19
+RecCatch: 11
+RecYds: 204
+Yds/Rec: 18.5
+RecTd: 3
+Rec/Game: 2.2
+Yds/Game: 40.8
+Rec%: 57.9%
+Fmb: 0
+No.: 44
+Player: Kyle Juszczyk
+Age: 27
+Pos: FB
+Games: 7
+Started: 7
+RushAtt: 2
+RushYds: 7
+RushTd: 0
+RushYds/Att: 3.5
+RushYds/Game: 1.0
+Att/Game: 0.3
+RecTargets: 26
+RecCatch: 19
+RecYds: 245
+Yds/Rec: 12.9
+RecTd: 1
+Rec/Game: 2.7
+Yds/Game: 35.0
+Rec%: 73.1%
+Fmb: 1
+No.: 85
+Player: George Kittle
+Age: 25
+Pos: TE
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 49
+RecCatch: 32
+RecYds: 527
+Yds/Rec: 16.5
+RecTd: 2
+Rec/Game: 4.6
+Yds/Game: 75.3
+Rec%: 65.3%
+Fmb: 0
+No.: 15
+Player: Pierre Garcon
+Age: 32
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 40
+RecCatch: 21
+RecYds: 230
+Yds/Rec: 11.0
+RecTd: 0
+Rec/Game: 3.0
+Yds/Game: 32.9
+Rec%: 52.5%
+Fmb: 0
+No.: 81
+Player: Trent Taylor
+Age: 24
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 26
+RecCatch: 17
+RecYds: 131
+Yds/Rec: 7.7
+RecTd: 1
+Rec/Game: 2.8
+Yds/Game: 21.8
+Rec%: 65.4%
+Fmb: 1
+No.: 84
+Player: Kendrick Bourne
+Age: 23
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 19
+RecCatch: 10
+RecYds: 120
+Yds/Rec: 12.0
+RecTd: 2
+Rec/Game: 1.4
+Yds/Game: 17.1
+Rec%: 52.6%
+Fmb: 0
+No.: 88
+Player: Garrett Celek
+Age: 30
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 5
+RecCatch: 3
+RecYds: 29
+Yds/Rec: 9.7
+RecTd: 1
+Rec/Game: 0.4
+Yds/Game: 4.1
+Rec%: 60.0%
+Fmb: 0
+No.: 18
+Player: Dante Pettis
+Age: 23
+Pos: wr
+Games: 4
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 7
+RecCatch: 3
+RecYds: 96
+Yds/Rec: 32.0
+RecTd: 1
+Rec/Game: 0.8
+Yds/Game: 24.0
+Rec%: 42.9%
+Fmb: 1
+No.: 17
+Player: Victor Bolden
+Age: 23
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 1
+RecYds: 10
+Yds/Rec: 10.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 3.3
+Rec%: 25.0%
+Fmb: 0
+No.: 13
+Player: Richie James
+Age: 23
+Pos: wr
+Games: 4
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 7
+Yds/Rec: 7.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 1.8
+Rec%: 100.0%
+Fmb: 0
+
+sea Team Stats Data 
+No.: 3
+Player: Russell Wilson
+Age: 30
+Pos: QB
+Games: 6
+Started: 6
+Cmp: 106
+Att: 165
+Cmp%: 64.2
+Yds: 1308
+Td: 13
+Td%: 7.9
+Int: 4
+Int%: 2.4
+Y/A: 7.9
+Y/C: 12.3
+Y/G: 218.0
+QBR: 47.9
+Sacked: 19
+No.: 32
+Player: Chris Carson
+Age: 24
+Pos: RB
+Games: 5
+Started: 5
+RushAtt: 78
+RushYds: 352
+RushTd: 1
+RushYds/Att: 4.5
+RushYds/Game: 70.4
+Att/Game: 15.6
+RecTargets: 9
+RecCatch: 6
+RecYds: 61
+Yds/Rec: 10.2
+RecTd: 0
+Rec/Game: 1.2
+Yds/Game: 12.2
+Rec%: 66.7%
+Fmb: 1
+No.: 27
+Player: Mike Davis
+Age: 25
+Pos: rb
+Games: 5
+Started: 1
+RushAtt: 42
+RushYds: 193
+RushTd: 3
+RushYds/Att: 4.6
+RushYds/Game: 38.6
+Att/Game: 8.4
+RecTargets: 11
+RecCatch: 9
+RecYds: 41
+Yds/Rec: 4.6
+RecTd: 0
+Rec/Game: 1.8
+Yds/Game: 8.2
+Rec%: 81.8%
+Fmb: 0
+No.: 20
+Player: Rashaad Penny
+Age: 22
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 38
+RushYds: 135
+RushTd: 0
+RushYds/Att: 3.6
+RushYds/Game: 22.5
+Att/Game: 6.3
+RecTargets: 9
+RecCatch: 6
+RecYds: 62
+Yds/Rec: 10.3
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 10.3
+Rec%: 66.7%
+Fmb: 0
+No.: 3
+Player: Russell Wilson
+Age: 30
+Pos: QB
+Games: 6
+Started: 6
+RushAtt: 17
+RushYds: 62
+RushTd: 0
+RushYds/Att: 3.6
+RushYds/Game: 10.3
+Att/Game: 2.8
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 7
+No.: 16
+Player: Tyler Lockett
+Age: 26
+Pos: WR
+Games: 6
+Started: 6
+RushAtt: 3
+RushYds: 18
+RushTd: 0
+RushYds/Att: 6.0
+RushYds/Game: 3.0
+Att/Game: 0.5
+RecTargets: 32
+RecCatch: 23
+RecYds: 360
+Yds/Rec: 15.7
+RecTd: 5
+Rec/Game: 3.8
+Yds/Game: 60.0
+Rec%: 71.9%
+Fmb: 1
+No.: 83
+Player: David Moore
+Age: 23
+Pos: wr
+Games: 6
+Started: 1
+RushAtt: 1
+RushYds: 5
+RushTd: 0
+RushYds/Att: 5.0
+RushYds/Game: 0.8
+Att/Game: 0.2
+RecTargets: 10
+RecCatch: 7
+RecYds: 124
+Yds/Rec: 17.7
+RecTd: 3
+Rec/Game: 1.2
+Yds/Game: 20.7
+Rec%: 70.0%
+Fmb: 1
+No.: 38
+Player: Tre Madden
+Age: 25
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 1
+RushYds: 2
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 0.3
+Att/Game: 0.2
+RecTargets: 2
+RecCatch: 1
+RecYds: 7
+Yds/Rec: 7.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 1.2
+Rec%: 50.0%
+Fmb: 0
+No.: 89
+Player: Doug Baldwin
+Age: 30
+Pos: WR
+Games: 4
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 17
+RecCatch: 12
+RecYds: 133
+Yds/Rec: 11.1
+RecTd: 0
+Rec/Game: 3.0
+Yds/Game: 33.3
+Rec%: 70.6%
+Fmb: 0
+No.: 81
+Player: Nick Vannett
+Age: 25
+Pos: TE
+Games: 5
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 18
+RecCatch: 12
+RecYds: 110
+Yds/Rec: 9.2
+RecTd: 0
+Rec/Game: 2.4
+Yds/Game: 22.0
+Rec%: 66.7%
+Fmb: 1
+No.: 15
+Player: Brandon Marshall
+Age: 34
+Pos: wr
+Games: 6
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 23
+RecCatch: 11
+RecYds: 136
+Yds/Rec: 12.4
+RecTd: 1
+Rec/Game: 1.8
+Yds/Game: 22.7
+Rec%: 47.8%
+Fmb: 0
+No.: 88
+Player: Will Dissly
+Age: 22
+Pos: TE
+Games: 4
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 14
+RecCatch: 8
+RecYds: 156
+Yds/Rec: 19.5
+RecTd: 2
+Rec/Game: 2.0
+Yds/Game: 39.0
+Rec%: 57.1%
+Fmb: 0
+No.: 18
+Player: Jaron Brown
+Age: 28
+Pos: wr
+Games: 6
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 10
+RecCatch: 7
+RecYds: 73
+Yds/Rec: 10.4
+RecTd: 2
+Rec/Game: 1.2
+Yds/Game: 12.2
+Rec%: 70.0%
+Fmb: 0
+No.: 22
+Player: C.J. Prosise
+Age: 24
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 3
+RecYds: 22
+Yds/Rec: 7.3
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 7.3
+Rec%: 100.0%
+Fmb: 0
+No.: 46
+Player: Tyrone Swoopes
+Age: 24
+Pos: te
+Games: 1
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 23
+Yds/Rec: 23.0
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 23.0
+Rec%: 100.0%
+Fmb: 0
+
+tam Team Stats Data 
+No.: 14
+Player: Ryan Fitzpatrick
+Age: 36
+Pos: QB
+Games: 4
+Started: 4
+Cmp: 87
+Att: 129
+Cmp%: 67.4
+Yds: 1356
+Td: 11
+Td%: 8.5
+Int: 5
+Int%: 3.9
+Y/A: 10.5
+Y/C: 15.6
+Y/G: 339.0
+QBR: 77.1
+Sacked: 7
+No.: 3
+Player: Jameis Winston
+Age: 24
+Pos: qb
+Games: 3
+Started: 2
+Cmp: 78
+Att: 113
+Cmp%: 69.0
+Yds: 905
+Td: 5
+Td%: 4.4
+Int: 6
+Int%: 5.3
+Y/A: 8.0
+Y/C: 11.6
+Y/G: 301.7
+QBR: 71.1
+Sacked: 8
+No.: 25
+Player: Peyton Barber
+Age: 24
+Pos: RB
+Games: 6
+Started: 6
+RushAtt: 74
+RushYds: 260
+RushTd: 0
+RushYds/Att: 3.5
+RushYds/Game: 43.3
+Att/Game: 12.3
+RecTargets: 12
+RecCatch: 6
+RecYds: 37
+Yds/Rec: 6.2
+RecTd: 1
+Rec/Game: 1.0
+Yds/Game: 6.2
+Rec%: 50.0%
+Fmb: 0
+No.: 14
+Player: Ryan Fitzpatrick
+Age: 36
+Pos: QB
+Games: 4
+Started: 4
+RushAtt: 18
+RushYds: 62
+RushTd: 1
+RushYds/Att: 3.4
+RushYds/Game: 15.5
+Att/Game: 4.5
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 1
+No.: 22
+Player: Ronald Jones
+Age: 21
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 17
+RushYds: 45
+RushTd: 1
+RushYds/Att: 2.6
+RushYds/Game: 15.0
+Att/Game: 5.7
+RecTargets: 6
+RecCatch: 5
+RecYds: 30
+Yds/Rec: 6.0
+RecTd: 0
+Rec/Game: 1.7
+Yds/Game: 10.0
+Rec%: 83.3%
+Fmb: 0
+No.: 3
+Player: Jameis Winston
+Age: 24
+Pos: qb
+Games: 3
+Started: 2
+RushAtt: 16
+RushYds: 91
+RushTd: 1
+RushYds/Att: 5.7
+RushYds/Game: 30.3
+Att/Game: 5.3
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 4
+No.: 32
+Player: Jacquizz Rodgers
+Age: 28
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 12
+RushYds: 21
+RushTd: 0
+RushYds/Att: 1.8
+RushYds/Game: 3.5
+Att/Game: 2.0
+RecTargets: 8
+RecCatch: 7
+RecYds: 54
+Yds/Rec: 7.7
+RecTd: 0
+Rec/Game: 1.2
+Yds/Game: 9.0
+Rec%: 87.5%
+Fmb: 0
+No.: 11
+Player: DeSean Jackson
+Age: 32
+Pos: WR
+Games: 6
+Started: 5
+RushAtt: 3
+RushYds: 15
+RushTd: 1
+RushYds/Att: 5.0
+RushYds/Game: 2.5
+Att/Game: 0.5
+RecTargets: 36
+RecCatch: 23
+RecYds: 526
+Yds/Rec: 22.9
+RecTd: 3
+Rec/Game: 3.8
+Yds/Game: 87.7
+Rec%: 63.9%
+Fmb: 0
+No.: 38
+Player: Shaun Wilson
+Age: 23
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 2
+RushYds: 15
+RushTd: 0
+RushYds/Att: 7.5
+RushYds/Game: 5.0
+Att/Game: 0.7
+RecTargets: 2
+RecCatch: 2
+RecYds: 9
+Yds/Rec: 4.5
+RecTd: 0
+Rec/Game: 0.7
+Yds/Game: 3.0
+Rec%: 100.0%
+Fmb: 0
+No.: 10
+Player: Adam Humphries
+Age: 25
+Pos: WR
+Games: 6
+Started: 3
+RushAtt: 1
+RushYds: 4
+RushTd: 0
+RushYds/Att: 4.0
+RushYds/Game: 0.7
+Att/Game: 0.2
+RecTargets: 31
+RecCatch: 20
+RecYds: 220
+Yds/Rec: 11.0
+RecTd: 0
+Rec/Game: 3.3
+Yds/Game: 36.7
+Rec%: 64.5%
+Fmb: 0
+No.: 13
+Player: Mike Evans
+Age: 25
+Pos: WR
+Games: 6
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 55
+RecCatch: 40
+RecYds: 591
+Yds/Rec: 14.8
+RecTd: 3
+Rec/Game: 6.7
+Yds/Game: 98.5
+Rec%: 72.7%
+Fmb: 2
+No.: 12
+Player: Chris Godwin
+Age: 22
+Pos: 
+Games: 6
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 37
+RecCatch: 26
+RecYds: 308
+Yds/Rec: 11.8
+RecTd: 4
+Rec/Game: 4.3
+Yds/Game: 51.3
+Rec%: 70.3%
+Fmb: 2
+No.: 80
+Player: O.J. Howard
+Age: 24
+Pos: TE
+Games: 6
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 30
+RecCatch: 20
+RecYds: 351
+Yds/Rec: 17.6
+RecTd: 2
+Rec/Game: 3.3
+Yds/Game: 58.5
+Rec%: 66.7%
+Fmb: 0
+No.: 84
+Player: Cameron Brate
+Age: 27
+Pos: te
+Games: 6
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 15
+RecCatch: 10
+RecYds: 101
+Yds/Rec: 10.1
+RecTd: 3
+Rec/Game: 1.7
+Yds/Game: 16.8
+Rec%: 66.7%
+Fmb: 1
+No.: 82
+Player: Antony Auclair
+Age: 25
+Pos: TE
+Games: 6
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 5
+RecCatch: 5
+RecYds: 28
+Yds/Rec: 5.6
+RecTd: 0
+Rec/Game: 0.8
+Yds/Game: 4.7
+Rec%: 100.0%
+Fmb: 0
+No.: 45
+Player: Alan Cross
+Age: 25
+Pos: te
+Games: 6
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 1
+RecYds: 6
+Yds/Rec: 6.0
+RecTd: 0
+Rec/Game: 0.2
+Yds/Game: 1.0
+Rec%: 33.3%
+Fmb: 0
+
+oti Team Stats Data 
+No.: 8
+Player: Marcus Mariota
+Age: 25
+Pos: QB
+Games: 6
+Started: 5
+Cmp: 99
+Att: 150
+Cmp%: 66.0
+Yds: 1030
+Td: 3
+Td%: 2.0
+Int: 5
+Int%: 3.3
+Y/A: 6.9
+Y/C: 10.4
+Y/G: 171.7
+QBR: 49.9
+Sacked: 19
+No.: 7
+Player: Blaine Gabbert
+Age: 29
+Pos: qb
+Games: 3
+Started: 2
+Cmp: 25
+Att: 45
+Cmp%: 55.6
+Yds: 242
+Td: 1
+Td%: 2.2
+Int: 1
+Int%: 2.2
+Y/A: 5.4
+Y/C: 9.7
+Y/G: 80.7
+QBR: 28.2
+Sacked: 3
+No.: 31
+Player: Kevin Byard
+Age: 25
+Pos: FS
+Games: 7
+Started: 7
+Cmp: 1
+Att: 1
+Cmp%: 100.0
+Yds: 66
+Td: 1
+Td%: 100.0
+Int: 0
+Int%: 0.0
+Y/A: 66.0
+Y/C: 66.0
+Y/G: 9.4
+QBR: 
+Sacked: 0
+No.: 22
+Player: Derrick Henry
+Age: 24
+Pos: RB
+Games: 7
+Started: 7
+Cmp: 1
+Att: 1
+Cmp%: 100.0
+Yds: 8
+Td: 0
+Td%: 0.0
+Int: 0
+Int%: 0.0
+Y/A: 8.0
+Y/C: 8.0
+Y/G: 1.1
+QBR: 33.3
+Sacked: 0
+No.: 22
+Player: Derrick Henry
+Age: 24
+Pos: RB
+Games: 7
+Started: 7
+RushAtt: 84
+RushYds: 273
+RushTd: 1
+RushYds/Att: 3.3
+RushYds/Game: 39.0
+Att/Game: 12.0
+RecTargets: 8
+RecCatch: 6
+RecYds: 49
+Yds/Rec: 8.2
+RecTd: 0
+Rec/Game: 0.9
+Yds/Game: 7.0
+Rec%: 75.0%
+Fmb: 0
+No.: 33
+Player: Dion Lewis
+Age: 28
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 73
+RushYds: 277
+RushTd: 1
+RushYds/Att: 3.8
+RushYds/Game: 39.6
+Att/Game: 10.4
+RecTargets: 33
+RecCatch: 29
+RecYds: 199
+Yds/Rec: 6.9
+RecTd: 0
+Rec/Game: 4.1
+Yds/Game: 28.4
+Rec%: 87.9%
+Fmb: 1
+No.: 8
+Player: Marcus Mariota
+Age: 25
+Pos: QB
+Games: 6
+Started: 5
+RushAtt: 31
+RushYds: 185
+RushTd: 1
+RushYds/Att: 6.0
+RushYds/Game: 30.8
+Att/Game: 5.2
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 3
+No.: 7
+Player: Blaine Gabbert
+Age: 29
+Pos: qb
+Games: 3
+Started: 2
+RushAtt: 2
+RushYds: 2
+RushTd: 0
+RushYds/Att: 1.0
+RushYds/Game: 0.7
+Att/Game: 0.7
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 19
+Player: Tajae Sharpe
+Age: 24
+Pos: WR
+Games: 7
+Started: 6
+RushAtt: 1
+RushYds: 16
+RushTd: 0
+RushYds/Att: 16.0
+RushYds/Game: 2.3
+Att/Game: 0.1
+RecTargets: 24
+RecCatch: 16
+RecYds: 222
+Yds/Rec: 13.9
+RecTd: 1
+Rec/Game: 2.3
+Yds/Game: 31.7
+Rec%: 66.7%
+Fmb: 0
+No.: 32
+Player: David Fluellen
+Age: 26
+Pos: 
+Games: 5
+Started: 0
+RushAtt: 1
+RushYds: 2
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 0.4
+Att/Game: 0.2
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 84
+Player: Corey Davis
+Age: 23
+Pos: WR
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 56
+RecCatch: 30
+RecYds: 395
+Yds/Rec: 13.2
+RecTd: 1
+Rec/Game: 4.3
+Yds/Game: 56.4
+Rec%: 53.6%
+Fmb: 1
+No.: 13
+Player: Taywan Taylor
+Age: 23
+Pos: wr
+Games: 7
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 28
+RecCatch: 19
+RecYds: 190
+Yds/Rec: 10.0
+RecTd: 1
+Rec/Game: 2.7
+Yds/Game: 27.1
+Rec%: 67.9%
+Fmb: 1
+No.: 88
+Player: Luke Stocker
+Age: 30
+Pos: TE
+Games: 7
+Started: 6
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 9
+RecCatch: 7
+RecYds: 74
+Yds/Rec: 10.6
+RecTd: 1
+Rec/Game: 1.0
+Yds/Game: 10.6
+Rec%: 77.8%
+Fmb: 0
+No.: 81
+Player: Jonnu Smith
+Age: 23
+Pos: TE
+Games: 7
+Started: 7
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 12
+RecCatch: 5
+RecYds: 44
+Yds/Rec: 8.8
+RecTd: 0
+Rec/Game: 0.7
+Yds/Game: 6.3
+Rec%: 41.7%
+Fmb: 0
+No.: 82
+Player: Delanie Walker
+Age: 34
+Pos: te
+Games: 1
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 7
+RecCatch: 4
+RecYds: 52
+Yds/Rec: 13.0
+RecTd: 0
+Rec/Game: 4.0
+Yds/Game: 52.0
+Rec%: 57.1%
+Fmb: 0
+No.: 15
+Player: Darius Jennings
+Age: 26
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 3
+RecYds: 19
+Yds/Rec: 6.3
+RecTd: 0
+Rec/Game: 0.4
+Yds/Game: 2.7
+Rec%: 75.0%
+Fmb: 0
+No.: 18
+Player: Rishard Matthews
+Age: 29
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 6
+RecCatch: 3
+RecYds: 11
+Yds/Rec: 3.7
+RecTd: 0
+Rec/Game: 1.0
+Yds/Game: 3.7
+Rec%: 50.0%
+Fmb: 0
+No.: 86
+Player: Anthony Firkser
+Age: 23
+Pos: 
+Games: 3
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 2
+RecCatch: 2
+RecYds: 25
+Yds/Rec: 12.5
+RecTd: 0
+Rec/Game: 0.7
+Yds/Game: 8.3
+Rec%: 100.0%
+Fmb: 0
+No.: 17
+Player: Cameron Batson
+Age: 23
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 0
+Yds/Rec: 0.0
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: 0.0
+Rec%: 100.0%
+Fmb: 0
+No.: 29
+Player: Dane Cruikshank
+Age: 23
+Pos: 
+Games: 7
+Started: 0
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 1
+RecCatch: 1
+RecYds: 66
+Yds/Rec: 66.0
+RecTd: 1
+Rec/Game: 0.1
+Yds/Game: 9.4
+Rec%: 100.0%
+Fmb: 0
+
+was Team Stats Data 
+No.: 11
+Player: Alex Smith
+Age: 34
+Pos: QB
+Games: 6
+Started: 6
+Cmp: 124
+Att: 196
+Cmp%: 63.3
+Yds: 1383
+Td: 7
+Td%: 3.6
+Int: 2
+Int%: 1.0
+Y/A: 7.1
+Y/C: 11.2
+Y/G: 230.5
+QBR: 54.0
+Sacked: 13
+No.: 26
+Player: Adrian Peterson
+Age: 33
+Pos: RB
+Games: 6
+Started: 6
+RushAtt: 101
+RushYds: 438
+RushTd: 3
+RushYds/Att: 4.3
+RushYds/Game: 73.0
+Att/Game: 16.8
+RecTargets: 12
+RecCatch: 8
+RecYds: 144
+Yds/Rec: 18.0
+RecTd: 0
+Rec/Game: 1.3
+Yds/Game: 24.0
+Rec%: 66.7%
+Fmb: 1
+No.: 11
+Player: Alex Smith
+Age: 34
+Pos: QB
+Games: 6
+Started: 6
+RushAtt: 31
+RushYds: 84
+RushTd: 1
+RushYds/Att: 2.7
+RushYds/Game: 14.0
+Att/Game: 5.2
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 6
+No.: 25
+Player: Chris Thompson
+Age: 28
+Pos: 
+Games: 4
+Started: 0
+RushAtt: 23
+RushYds: 100
+RushTd: 0
+RushYds/Att: 4.3
+RushYds/Game: 25.0
+Att/Game: 5.8
+RecTargets: 31
+RecCatch: 26
+RecYds: 200
+Yds/Rec: 7.7
+RecTd: 1
+Rec/Game: 6.5
+Yds/Game: 50.0
+Rec%: 83.9%
+Fmb: 0
+No.: 35
+Player: Kapri Bibbs
+Age: 25
+Pos: 
+Games: 4
+Started: 0
+RushAtt: 10
+RushYds: 36
+RushTd: 1
+RushYds/Att: 3.6
+RushYds/Game: 9.0
+Att/Game: 2.5
+RecTargets: 7
+RecCatch: 5
+RecYds: 49
+Yds/Rec: 9.8
+RecTd: 1
+Rec/Game: 1.3
+Yds/Game: 12.3
+Rec%: 71.4%
+Fmb: 0
+No.: 20
+Player: Robert Kelley
+Age: 26
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 4
+RushYds: 8
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 4.0
+Att/Game: 2.0
+RecTargets: 
+RecCatch: 
+RecYds: 
+Yds/Rec: 
+RecTd: 
+Rec/Game: 
+Yds/Game: 
+Rec%: 
+Fmb: 0
+No.: 80
+Player: Jamison Crowder
+Age: 25
+Pos: WR
+Games: 4
+Started: 3
+RushAtt: 3
+RushYds: 35
+RushTd: 0
+RushYds/Att: 11.7
+RushYds/Game: 8.8
+Att/Game: 0.8
+RecTargets: 20
+RecCatch: 13
+RecYds: 134
+Yds/Rec: 10.3
+RecTd: 1
+Rec/Game: 3.3
+Yds/Game: 33.5
+Rec%: 65.0%
+Fmb: 0
+No.: 32
+Player: Samaje Perine
+Age: 23
+Pos: 
+Games: 2
+Started: 0
+RushAtt: 3
+RushYds: 5
+RushTd: 0
+RushYds/Att: 1.7
+RushYds/Game: 2.5
+Att/Game: 1.5
+RecTargets: 1
+RecCatch: 1
+RecYds: -3
+Yds/Rec: -3.0
+RecTd: 0
+Rec/Game: 0.5
+Yds/Game: -1.5
+Rec%: 100.0%
+Fmb: 0
+No.: 10
+Player: Paul Richardson
+Age: 26
+Pos: wr
+Games: 5
+Started: 2
+RushAtt: 1
+RushYds: 2
+RushTd: 0
+RushYds/Att: 2.0
+RushYds/Game: 0.4
+Att/Game: 0.2
+RecTargets: 24
+RecCatch: 16
+RecYds: 212
+Yds/Rec: 13.3
+RecTd: 2
+Rec/Game: 3.2
+Yds/Game: 42.4
+Rec%: 66.7%
+Fmb: 0
+No.: 13
+Player: Maurice Harris
+Age: 26
+Pos: wr
+Games: 4
+Started: 1
+RushAtt: 1
+RushYds: 6
+RushTd: 0
+RushYds/Att: 6.0
+RushYds/Game: 1.5
+Att/Game: 0.3
+RecTargets: 15
+RecCatch: 9
+RecYds: 82
+Yds/Rec: 9.1
+RecTd: 0
+Rec/Game: 2.3
+Yds/Game: 20.5
+Rec%: 60.0%
+Fmb: 0
+No.: 86
+Player: Jordan Reed
+Age: 28
+Pos: TE/wr
+Games: 6
+Started: 4
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 35
+RecCatch: 22
+RecYds: 268
+Yds/Rec: 12.2
+RecTd: 1
+Rec/Game: 3.7
+Yds/Game: 44.7
+Rec%: 62.9%
+Fmb: 1
+No.: 18
+Player: Josh Doctson
+Age: 26
+Pos: WR
+Games: 5
+Started: 3
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 24
+RecCatch: 11
+RecYds: 110
+Yds/Rec: 10.0
+RecTd: 0
+Rec/Game: 2.2
+Yds/Game: 22.0
+Rec%: 45.8%
+Fmb: 0
+No.: 85
+Player: Vernon Davis
+Age: 34
+Pos: TE/wr
+Games: 6
+Started: 5
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 10
+RecCatch: 9
+RecYds: 149
+Yds/Rec: 16.6
+RecTd: 1
+Rec/Game: 1.5
+Yds/Game: 24.8
+Rec%: 90.0%
+Fmb: 0
+No.: 83
+Player: Brian Quick
+Age: 29
+Pos: wr
+Games: 5
+Started: 2
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 3
+RecCatch: 3
+RecYds: 18
+Yds/Rec: 6.0
+RecTd: 0
+Rec/Game: 0.6
+Yds/Game: 3.6
+Rec%: 100.0%
+Fmb: 0
+No.: 17
+Player: Michael Floyd
+Age: 29
+Pos: wr
+Games: 3
+Started: 1
+RushAtt: 0
+RushYds: 0
+RushTd: 0
+RushYds/Att: 
+RushYds/Game: 0.0
+Att/Game: 0.0
+RecTargets: 4
+RecCatch: 1
+RecYds: 20
+Yds/Rec: 20.0
+RecTd: 0
+Rec/Game: 0.3
+Yds/Game: 6.7
+Rec%: 25.0%
+Fmb: 0
+
